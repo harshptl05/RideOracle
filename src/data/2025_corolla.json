@@ -1,0 +1,524 @@
+{
+  "make": "Toyota",
+  "model": "Corolla",
+  "color_options": [
+    "Midnight Black Metallic",
+    "Blueprint",
+    "Underground",
+    "Ruby Flare Pearl",
+    "Celestite",
+    "Classic Silver Metallic",
+    "Wind Chill Pearl",
+    "Ice Cap"
+  ],
+  "trims": [
+    {
+      "trim_name": "LE",
+      "msrp": "$23,520",
+      "mechanical_performance": {
+        "engine": "2.0L 4-cylinder Dynamic Force Engine with 169 hp @ 6600 rpm",
+        "net_combined_hp": 169,
+        "transmission": "Dynamic-Shift Continuously Variable Transmission (CVT)",
+        "drivetrain": "Front-Wheel Drive (FWD)",
+        "drive_modes": [],
+        "mpg_est": { "city": 32, "highway": 41, "combined": 35 },
+        "features": [
+          "2.0L 4-cylinder Dynamic Force Engine with 169 hp @ 6600 rpm",
+          "Dynamic-Shift Continuously Variable Transmission (CVT)",
+          "Front-Wheel Drive (FWD)",
+          "Approx. 32 city / 41 highway / 35 combined est. mpg"
+        ]
+      },
+      "exterior_features": [
+        "LED headlights, LED taillights, and Daytime Running Lights (DRL)",
+        "16-in. steel wheels with covers",
+        "Color-keyed roof-mounted shark-fin antenna"
+      ],
+      "interior_features": [
+        "Automatic climate control",
+        "4.2-in. Multi-Information Display (MID)",
+        "Fabric-trimmed seats",
+        "60/40 split fold-down rear seat with center armrest",
+        "Multi-function in-key remote keyless entry system"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "8-in. touchscreen",
+        "features": [
+          "8-in. touchscreen and six speakers",
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial included for up to 3GB or 30 days (4G network dependent)",
+        "Remote Connect capable, subscription required (4G network dependent)",
+        "Drive Connect capable, subscription required (4G network dependent)",
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Ten airbags",
+        "Pre-Collision System with Pedestrian Detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "LE Convenience Package",
+          "contents": [
+            "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+            "Smart Key System with Push Button Start"
+          ]
+        },
+        {
+          "package_name": "LE Premium Package",
+          "contents": [
+            "Smart Key System with Push Button Start",
+            "16-in. alloy wheels",
+            "Qi-compatible wireless smartphone charging",
+            "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "SE",
+      "msrp": "$25,960",
+      "mechanical_performance": {
+        "engine": "2.0L 4-cylinder Dynamic Force Engine with 169 hp @ 6600 rpm",
+        "net_combined_hp": 169,
+        "transmission": "Dynamic-Shift Continuously Variable Transmission (CVT)",
+        "drivetrain": "Front-Wheel Drive (FWD)",
+        "drive_modes": ["Normal", "Sport", "Eco"],
+        "mpg_est": { "city": 31, "highway": 40, "combined": 34 },
+        "features": [
+          "2.0L 4-cylinder Dynamic Force Engine with 169 hp @ 6600 rpm",
+          "Dynamic-Shift Continuously Variable Transmission (CVT)",
+          "Front-Wheel Drive (FWD)",
+          "Normal, Sport and Eco driving modes",
+          "Approx. 31 city / 40 highway / 34 combined est. mpg"
+        ]
+      },
+      "exterior_features": [
+        "LED headlights, LED taillights and Daytime Running Lights (DRL) accent lighting",
+        "Sport mesh gloss black front grille",
+        "Gray metallic sport side rocker panels and color-keyed spoiler",
+        "18-in. graphite-colored alloy wheels",
+        "Single exhaust with dual chrome tips"
+      ],
+      "interior_features": [
+        "Sport seats with sport fabric inserts",
+        "4.2-in. Multi-Information Display (MID)",
+        "Smart Key System with Push Button Start"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "8-in. touchscreen",
+        "features": [
+          "8-in. touchscreen and six speakers",
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial included for up to 3GB or 30 days (4G network dependent)",
+        "Remote Connect with 1-year trial (4G network dependent)",
+        "Drive Connect capable, subscription required (4G network dependent)",
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Ten airbags",
+        "Pre-Collision System with Pedestrian Detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "SE Convenience Package",
+          "contents": ["Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)"]
+        },
+        {
+          "package_name": "SE Premium Package",
+          "contents": [
+            "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+            "Power tilt/slide moonroof with sliding sunshade",
+            "Qi-compatible wireless smartphone charging",
+            "7-in. Digital Gauge Cluster",
+            "Toyota Audio Multimedia with 10.5-in. touchscreen"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "FX",
+      "msrp": "$27,845",
+      "mechanical_performance": {
+        "engine": "2.0L 4-cylinder Dynamic Force Engine with 169 hp @ 6600 rpm",
+        "net_combined_hp": 169,
+        "transmission": "Dynamic-Shift Continuously Variable Transmission (CVT)",
+        "drivetrain": "Front-Wheel Drive (FWD)",
+        "drive_modes": ["Normal", "Sport", "Eco"],
+        "mpg_est": { "city": 31, "highway": 40, "combined": 34 },
+        "features": [
+          "2.0L 4-cylinder Dynamic Force Engine with 169 hp @ 6600 rpm",
+          "Dynamic-Shift Continuously Variable Transmission (CVT)",
+          "Front-Wheel Drive (FWD)",
+          "Normal, Sport and Eco driving modes",
+          "Approx. 31 city / 40 highway / 34 combined est. mpg"
+        ]
+      },
+      "exterior_features": [
+        "LED headlights, LED taillights, and Daytime Running Lights (DRL) accent lighting",
+        "Lowering springs",
+        "Sport mesh gloss-black front grille",
+        "Gray metallic sport side rocker panels",
+        "FX-enhanced rear spoiler",
+        "18-in. satin black-finished alloy wheels with machined accents and black lug nuts",
+        "Blackout badging",
+        "Single exhaust with dual chrome tips",
+        "Black roof-mounted shark-fin antenna"
+      ],
+      "interior_features": [
+        "Sport seats with orange stitching and sport fabric inserts",
+        "Orange accent stitching",
+        "7-in. Digital Gauge Cluster",
+        "Smart Key System with Push Button Start",
+        "Qi-compatible wireless smartphone charging"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "10.5-in. touchscreen",
+        "features": [
+          "10.5-in. touchscreen and six speakers",
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial included for up to 3GB or 30 days (4G network dependent)",
+        "Remote Connect with 1-year trial (4G network dependent)",
+        "Drive Connect with 1-year trial (4G network dependent)",
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Ten airbags",
+        "Pre-Collision System with Pedestrian Detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "SE Convenience Package",
+          "contents": ["Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)"]
+        }
+      ]
+    },
+    {
+      "trim_name": "XSE",
+      "msrp": "$29,235",
+      "mechanical_performance": {
+        "engine": "2.0L 4-cylinder Dynamic Force Engine with 169 hp @ 6600 rpm",
+        "net_combined_hp": 169,
+        "transmission": "Dynamic-Shift Continuously Variable Transmission (CVT)",
+        "drivetrain": "Front-Wheel Drive (FWD)",
+        "drive_modes": ["Normal", "Sport", "Eco"],
+        "mpg_est": { "city": 31, "highway": 40, "combined": 34 },
+        "features": [
+          "2.0L 4-cylinder Dynamic Force Engine with 169 hp @ 6600 rpm",
+          "Dynamic-Shift Continuously Variable Transmission (CVT)",
+          "Front-Wheel Drive (FWD)",
+          "Normal, Sport and Eco driving modes",
+          "Approx. 31 city / 40 highway / 34 combined est. mpg"
+        ]
+      },
+      "exterior_features": [
+        "LED headlights, LED taillights, and Daytime Running Lights (DRL) accent lighting",
+        "Power tilt/slide moonroof with sliding sunshade",
+        "Gray metallic sport side rocker panels and rear spoiler"
+      ],
+      "interior_features": [
+        "SofTex-trimmed seats with sport fabric inserts",
+        "Heated front seats",
+        "Steering-wheel-mounted paddle shifters",
+        "7-in. Digital Gauge Cluster",
+        "Smart Key System with Push Button Start",
+        "Qi-compatible wireless smartphone charging"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "10.5-in. touchscreen",
+        "features": [
+          "10.5-in. touchscreen and six speakers",
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial included for up to 3GB or 30 days (4G network dependent)",
+        "Remote Connect with 1-year trial (4G network dependent)",
+        "Drive Connect with 1-year trial (4G network dependent)",
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Ten airbags",
+        "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+        "Pre-Collision System with Pedestrian Detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "JBL Premium Audio Package",
+          "contents": ["Nine JBL speakers including subwoofer and amplifier"]
+        }
+      ]
+    },
+    {
+      "trim_name": "Hybrid LE",
+      "msrp": "$25,020",
+      "mechanical_performance": {
+        "engine": "1.8L 4-cylinder engine with 138 hp",
+        "net_combined_hp": 138,
+        "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+        "drivetrain": "Front-Wheel Drive (FWD)",
+        "drive_modes": [],
+        "mpg_est": { "city": 53, "highway": 46, "combined": 50 },
+        "features": [
+          "1.8L 4-cylinder engine with 138 hp",
+          "Electronically controlled Continuously Variable Transmission (ECVT)",
+          "Front-Wheel Drive (FWD)",
+          "Available Electronic On-Demand All-Wheel Drive (AWD)",
+          "Up to 53 city / 46 highway / 50 combined est. mpg"
+        ]
+      },
+      "exterior_features": [
+        "16-in. steel wheels with covers",
+        "LED headlights, LED taillights, and Daytime Running Lights (DRL)",
+        "Color-keyed roof-mounted shark-fin antenna"
+      ],
+      "interior_features": [
+        "Automatic climate control",
+        "4.2-in. Multi-Information Display (MID)",
+        "Fabric-trimmed seats",
+        "60/40 split fold-down rear seat with center armrest",
+        "Multi-function in-key remote keyless entry system"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "8-in. touchscreen",
+        "features": [
+          "8-in. touchscreen and six speakers",
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial included for up to 3GB or 30 days (4G network dependent)",
+        "Remote Connect capable, subscription required (4G network dependent)",
+        "Drive Connect capable, subscription required (4G network dependent)",
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Ten airbags",
+        "Pre-Collision System with Pedestrian Detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "LE Convenience Package",
+          "contents": [
+            "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+            "Smart Key System with Push Button Start"
+          ]
+        },
+        {
+          "package_name": "LE Premium Package",
+          "contents": [
+            "Smart Key System with Push Button Start",
+            "16-in. alloy wheels",
+            "Qi-compatible wireless smartphone charging",
+            "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "Hybrid SE",
+      "msrp": "$27,460",
+      "mechanical_performance": {
+        "engine": "1.8L 4-cylinder engine with 138 hp",
+        "net_combined_hp": 138,
+        "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+        "drivetrain": "Front-Wheel Drive (FWD)",
+        "drive_modes": ["Normal", "Sport", "Eco"],
+        "mpg_est": { "city": 50, "highway": 43, "combined": 47 },
+        "features": [
+          "1.8L 4-cylinder engine with 138 hp",
+          "Electronically controlled Continuously Variable Transmission (ECVT)",
+          "Front-Wheel Drive (FWD)",
+          "Available Electronic On-Demand All-Wheel Drive (AWD)",
+          "Normal, Sport and Eco driving modes",
+          "Up to 50 city / 43 highway / 47 combined est. mpg"
+        ]
+      },
+      "exterior_features": [
+        "LED headlights, LED taillights, and Daytime Running Lights (DRL) accent lighting",
+        "Sport mesh gloss black front grille",
+        "Gray metallic sport side rocker panels and color-keyed spoiler",
+        "18-in. graphite-colored alloy wheels",
+        "Single exhaust with dual chrome tips"
+      ],
+      "interior_features": [
+        "Sport seats with sport fabric inserts",
+        "4.2-in. color TFT Multi-Information Display (MID)",
+        "Smart Key System with Push Button Start"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "8-in. touchscreen",
+        "features": [
+          "8-in. touchscreen and six speakers",
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial included for up to 3GB or 30 days (4G network dependent)",
+        "Remote Connect with 1-year trial (4G network dependent)",
+        "Drive Connect capable, subscription required (4G network dependent)",
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Ten airbags",
+        "Pre-Collision System with Pedestrian Detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "SE Convenience Package",
+          "contents": ["Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)"]
+        },
+        {
+          "package_name": "SE Premium Package",
+          "contents": [
+            "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+            "Power tilt/slide moonroof with sliding sunshade",
+            "Qi-compatible wireless smartphone charging",
+            "7-in. Digital Gauge Cluster",
+            "Toyota Audio Multimedia with 10.5-in. touchscreen"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "Hybrid XLE",
+      "msrp": "$29,385",
+      "mechanical_performance": {
+        "engine": "1.8L 4-cylinder engine with 138 hp",
+        "net_combined_hp": 138,
+        "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+        "drivetrain": "Front-Wheel Drive (FWD)",
+        "drive_modes": [],
+        "mpg_est": { "city": 53, "highway": 46, "combined": 50 },
+        "features": [
+          "1.8L 4-cylinder engine with 138 hp",
+          "Electronically controlled Continuously Variable Transmission (ECVT)",
+          "Front-Wheel Drive (FWD)",
+          "Approx. 53 city / 46 highway / 50 combined est. mpg"
+        ]
+      },
+      "exterior_features": [
+        "LED headlights and Daytime Running Lights (DRL)",
+        "Color-keyed heated power outside mirrors with turn signal indicators",
+        "Power tilt/slide moonroof with sliding sunshade",
+        "16-in. alloy wheels"
+      ],
+      "interior_features": [
+        "SofTex-trimmed seats with heated front seats",
+        "Leather-wrapped tilt/telescopic steering wheel",
+        "7-in. Digital Gauge Cluster",
+        "Smart Key System with Push Button Start",
+        "Qi-compatible wireless smartphone charging"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "10.5-in. touchscreen",
+        "features": [
+          "10.5-in. touchscreen and six speakers",
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial included for up to 3GB or 30 days (4G network dependent)",
+        "Remote Connect with 1-year trial (4G network dependent)",
+        "Drive Connect with 1-year trial (4G network dependent)",
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Ten airbags",
+        "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+        "Pre-Collision System with Pedestrian Detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "JBL Premium Audio Package",
+          "contents": ["Nine JBL speakers including subwoofer and amplifier"]
+        }
+      ]
+    }
+  ]
+}

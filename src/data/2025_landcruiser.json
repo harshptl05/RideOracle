@@ -1,0 +1,199 @@
+{
+  "make": "Toyota",
+  "model": "Land Cruiser",
+  "color_options": [
+    "Ice Cap",
+    "Wind Chill Pearl",
+    "Black",
+    "Underground",
+    "Meteor Shower",
+    "Heritage Blue",
+    "Trail Dust",
+    "Bronze Oxide"
+  ],
+  "trims": [
+    {
+      "trim_name": "1958",
+      "msrp": "$55,950",
+      "mechanical_performance": {
+        "engine": "2.4-Liter Turbocharged 4-Cylinder Hybrid (i-FORCE MAX)",
+        "net_combined_hp": 326,
+        "transmission": "8-speed automatic",
+        "drivetrain": "Full-Time Four-Wheel Drive (4WD)",
+        "drive_modes": ["Normal", "Eco", "Sport", "Crawl", "Mud & Sand"],
+        "mpg_est": { "city": 22, "highway": 25, "combined": 23 },
+        "features": [
+          "i-FORCE MAX turbo 2.4-L 4-cylinder hybrid powertrain",
+          "Approx. 326 net combined horsepower",
+          "8-speed automatic transmission",
+          "Full-time 4WD with locking center and rear differentials",
+          "Multiple off-road drive modes and Crawl Control",
+          "Estimated 22 city / 25 highway / 23 combined mpg"
+        ]
+      },
+      "exterior_features": [
+        "Round LED headlights with heritage styling",
+        "17-in. alloy wheels with all-terrain tires",
+        "Roof rails",
+        "Skid plates for underbody protection",
+        "Classic Land Cruiser 1958 badging"
+      ],
+      "interior_features": [
+        "Seating for five passengers",
+        "Cloth-trimmed seats",
+        "Manual-adjustable front seats",
+        "Fold-flat rear seats for cargo flexibility",
+        "Rubberized all-weather floor materials (depending on package)"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "8-in. or 12.3-in. touchscreen (depending on configuration)",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "Six- or eight-speaker audio system",
+          "USB and USB-C ports"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect with up to 10-year trial",
+        "Service Connect with up to 10-year trial",
+        "Wi-Fi Connect trial",
+        "Remote Connect capable (subscription required)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense (latest version)",
+        "Pre-Collision System with Pedestrian Detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams",
+        "Star Safety System",
+        "Trailer sway control and tow capacity up to 6,000 lbs (when properly equipped)"
+      ],
+      "options_and_packages": []
+    },
+    {
+      "trim_name": "Land Cruiser",
+      "msrp": "$61,950",
+      "mechanical_performance": {
+        "engine": "2.4-Liter Turbocharged 4-Cylinder Hybrid (i-FORCE MAX)",
+        "net_combined_hp": 326,
+        "transmission": "8-speed automatic",
+        "drivetrain": "Full-Time Four-Wheel Drive (4WD)",
+        "drive_modes": ["Normal", "Eco", "Sport", "Crawl", "Mud & Sand"],
+        "mpg_est": { "city": 22, "highway": 25, "combined": 23 },
+        "features": [
+          "i-FORCE MAX 2.4-L turbo hybrid powertrain",
+          "Approx. 326 net combined horsepower",
+          "8-speed automatic transmission",
+          "Full-time 4WD with locking center differential",
+          "Multiple off-road drive modes and Crawl Control"
+        ]
+      },
+      "exterior_features": [
+        "Rectangular LED headlights",
+        "18-in. alloy wheels",
+        "Roof rails with optional crossbars",
+        "Premium metallic grille and exterior trim",
+        "Available two-tone roof on certain packages"
+      ],
+      "interior_features": [
+        "Seating for five",
+        "SofTex- or leather-trimmed seats (depending on package)",
+        "Heated front seats",
+        "Power-adjustable driver’s seat",
+        "Premium interior accents and larger screens vs. 1958"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "12.3-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "Available JBL Premium Audio system",
+          "Multiple USB/USB-C ports"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect with up to 10-year trial",
+        "Service Connect with up to 10-year trial",
+        "Wi-Fi Connect trial",
+        "Remote Connect capable (subscription required)",
+        "Drive Connect capable (subscription required)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense (latest version)",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Front and Rear Parking Assist (availability varies by package)",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams",
+        "Tow capacity up to 6,000 lbs (when properly equipped)"
+      ],
+      "options_and_packages": []
+    },
+    {
+      "trim_name": "First Edition",
+      "msrp": "$74,950",
+      "mechanical_performance": {
+        "engine": "2.4-Liter Turbocharged 4-Cylinder Hybrid (i-FORCE MAX)",
+        "net_combined_hp": 326,
+        "transmission": "8-speed automatic",
+        "drivetrain": "Full-Time Four-Wheel Drive (4WD)",
+        "drive_modes": ["Normal", "Eco", "Sport", "Crawl", "Mud & Sand", "Off-Road+"],
+        "mpg_est": { "city": 22, "highway": 25, "combined": 23 },
+        "features": [
+          "i-FORCE MAX 2.4-L turbo hybrid powertrain",
+          "Approx. 326 net combined horsepower",
+          "8-speed automatic transmission",
+          "Full-time 4WD with enhanced off-road systems",
+          "Exclusive First Edition enhancements and styling"
+        ]
+      },
+      "exterior_features": [
+        "Special edition wheels and unique exterior accents",
+        "Available two-tone paint with contrast roof",
+        "Rock rails and additional skid plates (depending on configuration)",
+        "First Edition badging and heritage-inspired details"
+      ],
+      "interior_features": [
+        "Premium leather-trimmed seats",
+        "Heated and ventilated front seats",
+        "Unique interior trim and First Edition badging",
+        "Advanced off-road display interfaces",
+        "Panoramic View Monitor available"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia with JBL Premium Audio",
+        "display": "12.3-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "JBL Premium Audio system",
+          "Multiple USB/USB-C ports and wireless charging"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect with up to 10-year trial",
+        "Service Connect with up to 10-year trial",
+        "Wi-Fi Connect trial",
+        "Remote Connect capable (subscription required)",
+        "Drive Connect capable (subscription required)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense (latest version)",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Front and Rear Parking Assist with Automatic Braking",
+        "Multi-Terrain Select and Crawl Control",
+        "Tow capacity up to 6,000 lbs (when properly equipped)",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Tracing Assist",
+        "Road Sign Assist"
+      ],
+      "options_and_packages": []
+    }
+  ]
+}

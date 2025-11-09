@@ -1,0 +1,131 @@
+{
+  "make": "Toyota",
+  "model": "4Runner",
+  "color_options": [
+    "Ice Cap",
+    "Midnight Black Metallic",
+    "Magnetic Gray Metallic",
+    "Blueprint",
+    "Wind Chill Pearl",
+    "Cement",
+    "Silver Sky Metallic",
+    "Heavy Metal",
+    "Supersonic Red"
+  ],
+  "trims": [
+    {
+      "trim_name": "SR5",
+      "msrp": "$40,770",
+      "mechanical_performance": {
+        "engine": "2.4-Liter Turbocharged 4-Cylinder Gas",
+        "net_combined_hp": 278,
+        "transmission": "8-speed automatic",
+        "drivetrain": "Rear-Wheel Drive (RWD) standard / Four-Wheel Drive (4WD) optional",
+        "drive_modes": ["Normal", "Eco", "Sport"],
+        "mpg_est": { "city": 20, "highway": 26, "combined": 21 },
+        "features": [
+          "2.4-L turbocharged I-4 engine with approx. 278 hp",
+          "8-speed automatic transmission",
+          "Body-on-frame construction",
+          "Max towing capacity up to 6,000 lbs (when properly equipped)"
+        ]
+      },
+      "exterior_features": [
+        "17-in. steel or alloy wheels (depending on configuration)",
+        "LED headlights and taillights",
+        "Color-keyed outside mirrors with heated option",
+        "Roof rails (on many configurations)"
+      ],
+      "interior_features": [
+        "Seating for five passengers (available third row on some configs)",
+        "Cloth-trimmed seats",
+        "8-in. touchscreen multimedia display",
+        "60/40 split fold-flat second-row seats",
+        "Manual air conditioning with rear vents"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "8-in. touchscreen",
+        "features": [
+          "Apple CarPlay compatibility",
+          "Android Auto compatibility",
+          "Bluetooth connectivity",
+          "Multiple USB ports"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect trial (up to 10 years)",
+        "Service Connect trial (up to 10 years)",
+        "Remote Connect capable (subscription required, select features)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense (latest version)",
+        "Pre-Collision System with Pedestrian Detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Star Safety System with Vehicle Stability Control and Traction Control"
+      ],
+      "options_and_packages": []
+    },
+    {
+      "trim_name": "TRD Off-Road i-FORCE MAX",
+      "msrp": "$51,990",
+      "mechanical_performance": {
+        "engine": "2.4-Liter Turbocharged 4-Cylinder Hybrid (i-FORCE MAX)",
+        "net_combined_hp": 326,
+        "transmission": "8-speed automatic",
+        "drivetrain": "Four-Wheel Drive (4WD) with low-range transfer case",
+        "drive_modes": ["Normal", "Eco", "Sport", "Rock", "Crawl"],
+        "mpg_est": { "city": null, "highway": null, "combined": null },
+        "features": [
+          "i-FORCE MAX hybrid system with approx. 326 hp",
+          "8-speed automatic transmission",
+          "4WD system with low-range transfer case",
+          "Multi-Terrain Select and Crawl Control",
+          "Max tow rating up to 6,000 lbs (when properly equipped)"
+        ]
+      },
+      "exterior_features": [
+        "18-in. alloy wheels with all-terrain tires",
+        "Skid plates for underbody protection",
+        "TRD Off-Road badging",
+        "Available rock rails and off-road exterior accents"
+      ],
+      "interior_features": [
+        "SofTex-trimmed heated front seats",
+        "Power-adjustable driver’s seat with lumbar",
+        "All-weather floor mats",
+        "Off-road instrumentation in multi-information display",
+        "Available heated second-row seats (depending on package)"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "Available 12.3-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "Available JBL Premium Audio system",
+          "Multiple USB/USB-C ports"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect trial (up to 10 years)",
+        "Service Connect trial (up to 10 years)",
+        "Remote Connect trial (select features)",
+        "Drive Connect capable (subscription required)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense (latest version)",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Front and Rear Parking Assist with Automatic Braking (available)",
+        "Multi-Terrain Select and Crawl Control",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist"
+      ],
+      "options_and_packages": []
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "make": "Toyota",
+  "model": "RAV4",
+  "color_options": [
+    "Magnetic Gray Metallic",
+    "Silver Sky Metallic",
+    "Ice Cap",
+    "Blueprint",
+    "Wind Chill Pearl",
+    "Midnight Black Metallic",
+    "Cement",
+    "Ruby Flare Pearl"
+  ],
+  "trims": [
+    {
+      "trim_name": "LE",
+      "msrp": "$28,850",
+      "mechanical_performance": {
+        "engine": "2.5-Liter 4-Cylinder Gas",
+        "net_combined_hp": 203,
+        "transmission": "8-speed automatic",
+        "drivetrain": "Front-Wheel Drive (FWD) standard / All-Wheel Drive (AWD) optional",
+        "drive_modes": ["Normal", "Eco", "Sport"],
+        "mpg_est": { "city": 27, "highway": 35, "combined": 30 },
+        "features": [
+          "2.5-Liter 4-Cylinder engine with 203 hp",
+          "8-speed automatic transmission",
+          "FWD standard, AWD available",
+          "Selectable drive modes: Normal, Eco, Sport"
+        ]
+      },
+      "exterior_features": [
+        "17-in. steel wheels with silver 6-spoke covers",
+        "LED headlights and taillights",
+        "Color-keyed heated power outside mirrors",
+        "Roof rails available with package"
+      ],
+      "interior_features": [
+        "Seating for five passengers",
+        "Fabric-trimmed seats",
+        "6-way adjustable driver’s seat and 4-way front passenger seat",
+        "Fold-flat rear seat with 60/40 split",
+        "Manual air conditioning with rear vents"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "8-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "Bluetooth connectivity",
+          "Six-speaker audio system",
+          "USB-C charge ports"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect with up to 10-year trial",
+        "Service Connect with up to 10-year trial",
+        "Wi-Fi Connect trial (where equipped)",
+        "Remote Connect capable (subscription required)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 2.5 (TSS 2.5)",
+        "Pre-Collision System with Pedestrian Detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams",
+        "Star Safety System"
+      ],
+      "options_and_packages": []
+    },
+    {
+      "trim_name": "XLE",
+      "msrp": "$30,360",
+      "mechanical_performance": {
+        "engine": "2.5-Liter 4-Cylinder Gas",
+        "net_combined_hp": 203,
+        "transmission": "8-speed automatic",
+        "drivetrain": "FWD standard / AWD optional",
+        "drive_modes": ["Normal", "Eco", "Sport"],
+        "mpg_est": { "city": 27, "highway": 35, "combined": 30 },
+        "features": [
+          "Same 2.5-Liter 4-Cylinder engine as LE with 203 hp",
+          "8-speed automatic transmission",
+          "Selectable drive modes: Normal, Eco, Sport"
+        ]
+      },
+      "exterior_features": [
+        "17-in. 5-spoke light-gray metallic alloy wheels",
+        "Black roof rails",
+        "LED projector headlights",
+        "Color-keyed heated power outside mirrors with turn-signal indicators"
+      ],
+      "interior_features": [
+        "Fabric-trimmed seats with upgraded stitching",
+        "8-way power-adjustable driver’s seat with lumbar support",
+        "Dual-zone automatic climate control with rear vents",
+        "Sun visors with sliding extensions and illuminated vanity mirrors",
+        "Smart Key System on front doors and liftgate"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "8-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "Eight-speaker audio system available",
+          "USB-C charge ports and Bluetooth connectivity"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect with up to 10-year trial",
+        "Service Connect with up to 10-year trial",
+        "Wi-Fi Connect trial",
+        "Remote Connect capable (subscription required)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 2.5 (TSS 2.5)",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams"
+      ],
+      "options_and_packages": []
+    },
+    {
+      "trim_name": "XLE Premium",
+      "msrp": "$33,250",
+      "mechanical_performance": {
+        "engine": "2.5-Liter 4-Cylinder Gas",
+        "net_combined_hp": 203,
+        "transmission": "8-speed automatic",
+        "drivetrain": "FWD standard / AWD optional",
+        "drive_modes": ["Normal", "Eco", "Sport"],
+        "mpg_est": { "city": 27, "highway": 34, "combined": 30 },
+        "features": [
+          "2.5-Liter 4-Cylinder engine with 203 hp",
+          "8-speed automatic transmission",
+          "Height-adjustable power liftgate with jam protection",
+          "Selectable drive modes: Normal, Eco, Sport"
+        ]
+      },
+      "exterior_features": [
+        "19-in. multi-spoke metallic-finished alloy wheels",
+        "Height-adjustable power liftgate",
+        "LED fog lights integrated in front bumper",
+        "Premium roof rails"
+      ],
+      "interior_features": [
+        "SofTex-trimmed seats with contrast stitching",
+        "8-way power-adjustable driver’s seat",
+        "Heated front seats available",
+        "Power tilt/slide moonroof with sunshade (available)",
+        "Leather-trimmed steering wheel and shift lever"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "Available 12.3-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "Available JBL Premium Audio system",
+          "Qi-compatible wireless smartphone charging pad"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect with up to 10-year trial",
+        "Service Connect with up to 10-year trial",
+        "Wi-Fi Connect trial",
+        "Remote Connect capable (subscription required)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 2.5 (TSS 2.5)",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Front and Rear Parking Assist with Automatic Braking available",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist"
+      ],
+      "options_and_packages": []
+    },
+    {
+      "trim_name": "Limited",
+      "msrp": "$37,155",
+      "mechanical_performance": {
+        "engine": "2.5-Liter 4-Cylinder Gas",
+        "net_combined_hp": 203,
+        "transmission": "8-speed automatic",
+        "drivetrain": "FWD standard / AWD optional",
+        "drive_modes": ["Normal", "Eco", "Sport", "Trail"],
+        "mpg_est": { "city": 26, "highway": 34, "combined": 29 },
+        "features": [
+          "2.5-Liter 4-Cylinder engine with 203 hp",
+          "8-speed automatic transmission",
+          "Dynamic Torque Vectoring All-Wheel Drive with Rear Driveline Disconnect (on AWD)",
+          "Selectable drive modes including Trail (on AWD)"
+        ]
+      },
+      "exterior_features": [
+        "19-in. dark-finish alloy wheels",
+        "Roof rails",
+        "LED projector headlights with chrome accents",
+        "Premium metallic grille and exterior trim"
+      ],
+      "interior_features": [
+        "Leather-trimmed seats",
+        "Heated and ventilated front seats",
+        "10-way power driver’s seat with memory function",
+        "12.3-in. digital gauge cluster (on many configurations)",
+        "Heated steering wheel"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia with JBL Premium Audio",
+        "display": "12.3-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "JBL Premium Audio system",
+          "Qi-compatible wireless charging pad",
+          "Multiple USB/USB-C ports"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect with up to 10-year trial",
+        "Service Connect with up to 10-year trial",
+        "Wi-Fi Connect trial",
+        "Remote Connect capable (subscription required)",
+        "Drive Connect capable (subscription required)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 2.5 (TSS 2.5)",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Front and Rear Parking Assist with Automatic Braking",
+        "Panoramic View Monitor available",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "10 airbags"
+      ],
+      "options_and_packages": []
+    }
+  ]
+}

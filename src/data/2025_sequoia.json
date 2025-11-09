@@ -1,0 +1,535 @@
+{
+  "make": "Toyota",
+  "model": "Sequoia",
+  "color_options": [
+    "Midnight Black Metallic",
+    "Supersonic Red",
+    "Ice Cap",
+    "Blueprint",
+    "Lunar Rock",
+    "Magnetic Gray Metallic",
+    "Celestial Silver Metallic",
+    "Mudbath",
+    "Wind Chill Pearl",
+    "Terra"
+  ],
+  "trims": [
+    {
+      "trim_name": "SR5",
+      "msrp": "$61,000",
+      "mechanical_performance": {
+        "engine": "i-FORCE MAX Twin-Turbo V6 Hybrid; 437 hp @ 5200 rpm; 583 lb.-ft. @ 2400 rpm",
+        "net_combined_hp": 437,
+        "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+        "drivetrain": "Rear-Wheel Drive (RWD) or 4WDemand part-time 4WD",
+        "drive_modes": ["Normal", "Eco", "Sport", "Tow/Haul"],
+        "mpg_est": { "city": 21, "highway": 24, "combined": 22 },
+        "features": [
+          "i-FORCE MAX Twin-Turbo V6 Hybrid powertrain",
+          "437 hp @ 5200 rpm; 583 lb.-ft. @ 2400 rpm",
+          "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+          "Selectable driving and TOW/HAUL modes",
+          "Towing hitch receiver and wiring harness with 4-pin/7-pin connector",
+          "Integrated Trailer Brake Controller (ITBC)",
+          "Rear-Wheel Drive (RWD) or 4WDemand part-time 4WD",
+          "Approx. 21 city / 24 highway / 22 combined mpg (4x2)",
+          "Approx. 19 city / 22 highway / 20 combined mpg (4x4)"
+        ]
+      },
+      "exterior_features": [
+        "18-in. silver-painted alloy wheels",
+        "LED headlights with Daytime Running Lights (DRL)",
+        "LED fog lights"
+      ],
+      "interior_features": [
+        "12.3-in. digital meter with selectable gauge display screens",
+        "Three-zone automatic climate control",
+        "Power tilt/slide moonroof with sliding sunshade",
+        "Panoramic View Monitor (PVM)"
+      ],
+      "audio_multimedia": {
+        "system_name": "8-in. Toyota Audio Multimedia",
+        "display": "8-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Remote Connect-capable; subscription required; select features only (4G network dependent)",
+        "Drive Connect-capable; subscription required (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)",
+        "Wi-Fi Connect with up to 3 GB within 30-day trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 2.5 (TSS 2.5)",
+        "Pre-Collision System with Pedestrian Detection (PCS w/PD)",
+        "Full-Speed Range Dynamic Radar Cruise Control (DRCC)",
+        "Lane Departure Alert with Steering Assist (LDA w/SA)",
+        "Lane Tracing Assist (LTA)",
+        "Automatic High Beams (AHB)",
+        "Road Sign Assist (RSA)"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "SR5 Premium Package",
+          "contents": [
+            "Enhanced interior comfort and convenience features over standard SR5"
+          ]
+        },
+        {
+          "package_name": "TRD Sport Package",
+          "contents": [
+            "Sport-tuned TRD suspension and unique exterior styling accents"
+          ]
+        },
+        {
+          "package_name": "TRD Off-Road Package (4x4)",
+          "contents": [
+            "Off-road tuned suspension and additional off-road capability features for 4x4 models"
+          ]
+        },
+        {
+          "package_name": "Tow Technology Package",
+          "contents": [
+            "Additional towing and trailer-assist technologies",
+            "Enhanced camera and monitoring systems for towing"
+          ]
+        },
+        {
+          "package_name": "Power-extending tow mirrors",
+          "contents": [
+            "Power-extending tow mirrors for improved trailer visibility"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "Limited",
+      "msrp": "$67,000",
+      "mechanical_performance": {
+        "engine": "i-FORCE MAX Twin-Turbo V6 Hybrid; 437 hp @ 5200 rpm; 583 lb.-ft. @ 2400 rpm",
+        "net_combined_hp": 437,
+        "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+        "drivetrain": "Rear-Wheel Drive (RWD) or 4WDemand part-time 4WD",
+        "drive_modes": ["Normal", "Eco", "Sport", "Tow/Haul"],
+        "mpg_est": { "city": 21, "highway": 24, "combined": 22 },
+        "features": [
+          "i-FORCE MAX Twin-Turbo V6 Hybrid powertrain",
+          "437 hp @ 5200 rpm; 583 lb.-ft. @ 2400 rpm",
+          "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+          "Selectable driving and TOW/HAUL modes",
+          "Towing hitch receiver and wiring harness with 4-pin/7-pin connector",
+          "Integrated Trailer Brake Controller (ITBC)",
+          "Rear-Wheel Drive (RWD) or 4WDemand part-time 4WD",
+          "Approx. 21 city / 24 highway / 22 combined mpg (4x2)",
+          "Approx. 19 city / 22 highway / 20 combined mpg (4x4)"
+        ]
+      },
+      "exterior_features": [
+        "20-in. gray-painted and machined-finish alloy wheels",
+        "Gray metallic horizontal-bar grille with chrome surround",
+        "Chrome-plated outside mirror caps with dark-black chrome-plated roof rails"
+      ],
+      "interior_features": [
+        "SofTex-trimmed seats",
+        "Heated and ventilated front seats",
+        "Heated steering wheel"
+      ],
+      "audio_multimedia": {
+        "system_name": "14-in. Toyota Audio Multimedia",
+        "display": "14-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Remote Connect-capable; subscription required; select features only (4G network dependent)",
+        "Drive Connect-capable; subscription required (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)",
+        "Wi-Fi Connect with up to 3 GB within 30-day trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 2.5 (TSS 2.5)",
+        "Pre-Collision System with Pedestrian Detection (PCS w/PD)",
+        "Full-Speed Range Dynamic Radar Cruise Control (DRCC)",
+        "Lane Departure Alert with Steering Assist (LDA w/SA)",
+        "Automatic High Beams (AHB)",
+        "Road Sign Assist (RSA)"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "TRD Off-Road Package (4x4)",
+          "contents": [
+            "Off-road tuned suspension and additional off-road capability features for 4x4 models"
+          ]
+        },
+        {
+          "package_name": "Nightshade Package",
+          "contents": [
+            "Blackout exterior accents and unique Nightshade styling elements"
+          ]
+        },
+        {
+          "package_name": "Power tilt/slide panoramic roof with power sunshade",
+          "contents": [
+            "Panoramic roof with power tilt/slide function and power sunshade"
+          ]
+        },
+        {
+          "package_name": "Power-extending tow mirrors",
+          "contents": [
+            "Power-extending tow mirrors for improved trailer visibility"
+          ]
+        },
+        {
+          "package_name": "JBL Premium Audio & Qi Package",
+          "contents": [
+            "14-speaker JBL Premium Audio system",
+            "Qi-compatible wireless smartphone charging"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "Platinum",
+      "msrp": "$73,000",
+      "mechanical_performance": {
+        "engine": "i-FORCE MAX Twin-Turbo V6 Hybrid; 437 hp @ 5200 rpm; 583 lb.-ft. @ 2400 rpm",
+        "net_combined_hp": 437,
+        "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+        "drivetrain": "4WDemand part-time 4WD",
+        "drive_modes": ["Normal", "Eco", "Sport", "Tow/Haul"],
+        "mpg_est": { "city": 19, "highway": 22, "combined": 20 },
+        "features": [
+          "i-FORCE MAX Twin-Turbo V6 Hybrid powertrain",
+          "437 hp @ 5200 rpm; 583 lb.-ft. @ 2400 rpm",
+          "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+          "Selectable driving and TOW/HAUL modes",
+          "Towing hitch receiver and wiring harness with 4-pin/7-pin connector",
+          "Integrated Trailer Brake Controller (ITBC)",
+          "4WDemand part-time 4WD",
+          "Approx. 19 city / 22 highway / 20 combined mpg"
+        ]
+      },
+      "exterior_features": [
+        "20-in. dark-gray-painted alloy wheels",
+        "Dark-chrome-accented mesh grille with chrome surround",
+        "Color-keyed door handles and dark-black chrome-plated roof rails",
+        "Premium LED headlights with LED Daytime Running Lights (DRL)"
+      ],
+      "interior_features": [
+        "Leather-trimmed massaging seats with premium contrast stitching",
+        "Heated and ventilated front and rear seats",
+        "Instrument panel and door ambient lighting",
+        "Qi-compatible wireless smartphone charging"
+      ],
+      "audio_multimedia": {
+        "system_name": "14-in. Toyota Audio Multimedia",
+        "display": "14-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Remote Connect-capable; subscription required; select features only (4G network dependent)",
+        "Drive Connect-capable; subscription required (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)",
+        "Wi-Fi Connect with up to 3 GB within 30-day trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 2.5 (TSS 2.5)",
+        "Pre-Collision System with Pedestrian Detection (PCS w/PD)",
+        "Full-Speed Range Dynamic Radar Cruise Control (DRCC)",
+        "Lane Departure Alert with Steering Assist (LDA w/SA)",
+        "Lane Tracing Assist (LTA)",
+        "Automatic High Beams (AHB)",
+        "Road Sign Assist (RSA)"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "TRD Off-Road Package",
+          "contents": [
+            "Off-road suspension tuning and additional off-road features"
+          ]
+        },
+        {
+          "package_name": "Load-leveling Rear Height Control Air Suspension",
+          "contents": [
+            "Load-leveling Rear Height Control Air Suspension system"
+          ]
+        },
+        {
+          "package_name": "10-in. color Head-Up Display (HUD)",
+          "contents": [
+            "10-in. color Head-Up Display"
+          ]
+        },
+        {
+          "package_name": "Power-extending tow mirrors",
+          "contents": [
+            "Power-extending tow mirrors"
+          ]
+        },
+        {
+          "package_name": "Power-extending running boards",
+          "contents": [
+            "Automatic power-extending running boards"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "1794 Edition",
+      "msrp": "$77,000",
+      "mechanical_performance": {
+        "engine": "i-FORCE MAX Twin-Turbo V6 Hybrid; 437 hp @ 5200 rpm; 583 lb.-ft. @ 2400 rpm",
+        "net_combined_hp": 437,
+        "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+        "drivetrain": "4WDemand part-time 4WD",
+        "drive_modes": ["Normal", "Eco", "Sport", "Tow/Haul"],
+        "mpg_est": { "city": 19, "highway": 22, "combined": 20 },
+        "features": [
+          "i-FORCE MAX Twin-Turbo V6 Hybrid powertrain",
+          "437 hp @ 5200 rpm; 583 lb.-ft. @ 2400 rpm",
+          "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+          "Selectable driving and TOW/HAUL modes",
+          "Towing hitch receiver and wiring harness with 4-pin/7-pin connector",
+          "Integrated Trailer Brake Controller (ITBC)",
+          "4WDemand part-time 4WD",
+          "Approx. 19 city / 22 highway / 20 combined mpg"
+        ]
+      },
+      "exterior_features": [
+        "20-in. dark-gray-painted alloy wheels",
+        "1794 Edition door badges",
+        "Chrome-accented mesh grille with chrome surround",
+        "Chrome mirror caps",
+        "Chrome door handles",
+        "Premium LED headlights with LED Daytime Running Lights (DRL)"
+      ],
+      "interior_features": [
+        "American walnut wood-grain interior trim",
+        "Premium leather-trimmed Saddle Tan massaging seats with contrast stitching",
+        "Heated and ventilated front and rear seats",
+        "Instrument panel and door ambient lighting",
+        "Qi-compatible wireless smartphone charging",
+        "1794 Edition all-weather floor mats"
+      ],
+      "audio_multimedia": {
+        "system_name": "14-in. Toyota Audio Multimedia",
+        "display": "14-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Remote Connect-capable; subscription required; select features only (4G network dependent)",
+        "Drive Connect-capable; subscription required (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)",
+        "Wi-Fi Connect with up to 3 GB within 30-day trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 2.5 (TSS 2.5)",
+        "Pre-Collision System with Pedestrian Detection (PCS w/PD)",
+        "Full-Speed Range Dynamic Radar Cruise Control (DRCC)",
+        "Lane Departure Alert with Steering Assist (LDA w/SA)",
+        "Lane Tracing Assist (LTA)",
+        "Automatic High Beams (AHB)",
+        "Road Sign Assist (RSA)"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "TRD Off-Road Package",
+          "contents": [
+            "Off-road suspension tuning and additional off-road capability features"
+          ]
+        },
+        {
+          "package_name": "Load-leveling Rear Height Control Air Suspension",
+          "contents": [
+            "Load-leveling Rear Height Control Air Suspension system"
+          ]
+        },
+        {
+          "package_name": "10-in. color Head-Up Display (HUD)",
+          "contents": [
+            "10-in. color Head-Up Display"
+          ]
+        },
+        {
+          "package_name": "Power-extending tow mirrors",
+          "contents": [
+            "Power-extending tow mirrors"
+          ]
+        },
+        {
+          "package_name": "Power-extending running boards",
+          "contents": [
+            "Automatic power-extending running boards"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "TRD Pro",
+      "msrp": "$79,500",
+      "mechanical_performance": {
+        "engine": "i-FORCE MAX Twin-Turbo V6 Hybrid; 437 hp @ 5200 rpm; 583 lb.-ft. @ 2400 rpm",
+        "net_combined_hp": 437,
+        "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+        "drivetrain": "4WDemand part-time 4WD with electronically controlled locking rear differential",
+        "drive_modes": ["Normal", "Eco", "Sport", "Tow/Haul", "Off-Road"],
+        "mpg_est": { "city": 19, "highway": 22, "combined": 20 },
+        "features": [
+          "i-FORCE MAX Twin-Turbo V6 Hybrid powertrain",
+          "437 hp @ 5200 rpm; 583 lb.-ft. @ 2400 rpm",
+          "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+          "Electronically controlled locking rear differential",
+          "Multi-Terrain Select (MTS), Crawl Control (CRAWL) and Downhill Assist Control (DAC)",
+          "TRD Pro off-road suspension with 2.5-in. FOX Internal Bypass coil-overs and rear remote-reservoir shocks",
+          "TRD Pro front stabilizer bar",
+          "4WDemand part-time 4WD",
+          "Approx. 19 city / 22 highway / 20 combined mpg"
+        ]
+      },
+      "exterior_features": [
+        "18-in. TRD Pro matte-black forged-aluminum BBS wheels with TRD center caps",
+        "Black \"TOYOTA\" heritage grille with integrated LED light bar and amber marker lights",
+        "TRD Pro dual-tip exhaust",
+        "TRD aluminum front skid plate",
+        "TRD Pro LED light bar"
+      ],
+      "interior_features": [
+        "TRD Pro SofTex-trimmed seats with contrast stitching and technical-camo-pattern inserts",
+        "Heated and ventilated front seats",
+        "TRD Pro red-striped leather shift knob",
+        "TRD Pro \"TOYOTA\" heritage badge on passenger dashboard"
+      ],
+      "audio_multimedia": {
+        "system_name": "14-in. Toyota Audio Multimedia",
+        "display": "14-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Remote Connect-capable; subscription required; select features only (4G network dependent)",
+        "Drive Connect-capable; subscription required (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)",
+        "Wi-Fi Connect with up to 3 GB within 30-day trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 2.5 (TSS 2.5)",
+        "Pre-Collision System with Pedestrian Detection (PCS w/PD)",
+        "Full-Speed Range Dynamic Radar Cruise Control (DRCC)",
+        "Lane Departure Alert with Steering Assist (LDA w/SA)",
+        "Lane Tracing Assist (LTA)",
+        "Automatic High Beams (AHB)",
+        "Road Sign Assist (RSA)"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Power tilt/slide panoramic roof with power sunshade",
+          "contents": [
+            "Power tilt/slide panoramic roof with power sunshade"
+          ]
+        },
+        {
+          "package_name": "Power-extending tow mirrors",
+          "contents": [
+            "Power-extending tow mirrors"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "Capstone",
+      "msrp": "$81,500",
+      "mechanical_performance": {
+        "engine": "i-FORCE MAX Twin-Turbo V6 Hybrid; 437 hp @ 5200 rpm; 583 lb.-ft. @ 2400 rpm",
+        "net_combined_hp": 437,
+        "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+        "drivetrain": "4WDemand part-time 4WD",
+        "drive_modes": ["Normal", "Eco", "Sport", "Tow/Haul"],
+        "mpg_est": { "city": 19, "highway": 22, "combined": 20 },
+        "features": [
+          "i-FORCE MAX Twin-Turbo V6 Hybrid powertrain",
+          "437 hp @ 5200 rpm; 583 lb.-ft. @ 2400 rpm",
+          "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+          "Selectable driving and TOW/HAUL modes",
+          "Towing hitch receiver and wiring harness with 4-pin/7-pin connector",
+          "Integrated Trailer Brake Controller (ITBC)",
+          "4WDemand part-time 4WD",
+          "Approx. 19 city / 22 highway / 20 combined mpg"
+        ]
+      },
+      "exterior_features": [
+        "22-in. dark-chrome and machined-finish alloy wheels",
+        "Chrome-accented mesh grille with chrome surround",
+        "Automatic power-extending running boards",
+        "Chrome-plated outside mirror caps with satin-chrome-plated roof rails"
+      ],
+      "interior_features": [
+        "Semi-aniline leather-trimmed massaging seats with premium contrast stitching",
+        "Dark American walnut wood-grain interior trim",
+        "Power tilt/slide panoramic roof with power sunshade",
+        "Instrument panel and door ambient lighting",
+        "10-in. color Head-Up Display (HUD)"
+      ],
+      "audio_multimedia": {
+        "system_name": "14-in. Toyota Audio Multimedia",
+        "display": "14-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Remote Connect-capable; subscription required; select features only (4G network dependent)",
+        "Drive Connect-capable; subscription required (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)",
+        "Wi-Fi Connect with up to 3 GB within 30-day trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 2.5 (TSS 2.5)",
+        "Pre-Collision System with Pedestrian Detection (PCS w/PD)",
+        "Full-Speed Range Dynamic Radar Cruise Control (DRCC)",
+        "Lane Departure Alert with Steering Assist (LDA w/SA)",
+        "Lane Tracing Assist (LTA)",
+        "Automatic High Beams (AHB)",
+        "Road Sign Assist (RSA)"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Load-leveling Rear Height Control Air Suspension",
+          "contents": [
+            "Load-leveling Rear Height Control Air Suspension system"
+          ]
+        },
+        {
+          "package_name": "Power-extending tow mirrors",
+          "contents": [
+            "Power-extending tow mirrors"
+          ]
+        }
+      ]
+    }
+  ]
+}

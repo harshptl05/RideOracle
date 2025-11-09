@@ -1,0 +1,358 @@
+{
+  "make": "Toyota",
+  "model": "Prius",
+  "color_options": [
+    "Cutting Edge",
+    "Guardian Gray",
+    "Midnight Black Metallic",
+    "Reservoir Blue",
+    "Supersonic Red",
+    "Wind Chill Pearl",
+    "Karashi"
+  ],
+  "trims": [
+    {
+      "trim_name": "LE",
+      "msrp": "$28,350",
+      "mechanical_performance": {
+        "engine": "2.0L 4-cylinder hybrid engine with electric motor",
+        "net_combined_hp": 194,
+        "transmission": "Electronically controlled Continuously Variable Transmission (eCVT)",
+        "drivetrain": "Front-Wheel Drive (FWD); available Electronic On-Demand All-Wheel Drive (AWD)",
+        "drive_modes": ["Normal", "Eco", "Sport"],
+        "mpg_est": { "city": 57, "highway": 56, "combined": 57 },
+        "features": [
+          "Hybrid powertrain with 2.0L 4-cylinder gas engine and electric motor",
+          "Approx. 194 hp with FWD (196 hp with available AWD)",
+          "Electronically controlled Continuously Variable Transmission (eCVT)",
+          "Front-Wheel Drive (FWD) with available Electronic On-Demand All-Wheel Drive (AWD)",
+          "Selectable Normal, Eco and Sport drive modes",
+          "EPA-estimated 57 city / 56 highway / 57 combined mpg for FWD",
+          "EPA-estimated ~53 city / 54 highway / 54 combined mpg for available AWD"
+        ]
+      },
+      "exterior_features": [
+        "17-in. alloy wheels with covers",
+        "Bi-LED projector low- and high-beam headlights",
+        "LED Daytime Running Lights (DRL), taillights and stop lights",
+        "Heated power outside mirrors",
+        "Power liftback",
+        "Color-keyed door handles and shark-fin antenna"
+      ],
+      "interior_features": [
+        "Fabric-trimmed seats",
+        "6-way manual-adjustable driver’s seat",
+        "60/40 split fold-down rear seatback",
+        "Single-zone automatic climate control",
+        "7-in. digital gauge cluster",
+        "Smart Key System with Push Button Start (driver door or front doors depending on market)",
+        "Multiple USB ports for front and rear passengers"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "8-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription",
+          "Six-speaker audio system",
+          "Integrated voice assistant and cloud-based navigation capability (Drive Connect subscription required)",
+          "Over-the-air (OTA) update capability for multimedia system"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial (data cap and time-limited, 4G network dependent)",
+        "Safety Connect with up to 10-year trial",
+        "Service Connect with up to 10-year trial",
+        "Remote Connect trial (subscription required after trial, 4G network dependent)",
+        "Drive Connect-capable with trial period (cloud navigation and traffic services)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Pre-Collision System with Pedestrian and bicyclist detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert (often bundled on convenience packages depending on region)",
+        "Rearview camera with parking assist guidelines",
+        "Star Safety System (includes stability and traction control, ABS and more)",
+        "Advanced airbag system with multiple airbags for front and rear occupants"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "LE Convenience / Premium-style Package (market-dependent)",
+          "contents": [
+            "Blind Spot Monitor with Rear Cross-Traffic Alert",
+            "Smart Key System on more doors",
+            "Upgraded alloy wheels or additional comfort features depending on region"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "XLE",
+      "msrp": "$31,795",
+      "mechanical_performance": {
+        "engine": "2.0L 4-cylinder hybrid engine with electric motor",
+        "net_combined_hp": 194,
+        "transmission": "Electronically controlled Continuously Variable Transmission (eCVT)",
+        "drivetrain": "Front-Wheel Drive (FWD); available Electronic On-Demand All-Wheel Drive (AWD)",
+        "drive_modes": ["Normal", "Eco", "Sport"],
+        "mpg_est": { "city": 52, "highway": 52, "combined": 52 },
+        "features": [
+          "Hybrid powertrain with 2.0L 4-cylinder gas engine and electric motor",
+          "Approx. 194 hp with FWD (196 hp with available AWD)",
+          "Electronically controlled Continuously Variable Transmission (eCVT)",
+          "Front-Wheel Drive (FWD) with available Electronic On-Demand All-Wheel Drive (AWD)",
+          "Selectable Normal, Eco and Sport drive modes",
+          "EPA-estimated ~52 city / 52 highway / 52 combined mpg for FWD",
+          "EPA-estimated ~49 city / 50 highway / 49 combined mpg for available AWD"
+        ]
+      },
+      "exterior_features": [
+        "19-in. alloy wheels",
+        "Bi-LED projector low- and high-beam headlights with Automatic High Beams",
+        "LED Daytime Running Lights (DRL), taillights and stop lights",
+        "Heated power outside mirrors with turn signal indicators",
+        "Power liftback",
+        "Acoustic windshield and sleek fastback roofline",
+        "Available fixed glass roof (panoramic-style) depending on package"
+      ],
+      "interior_features": [
+        "Upgraded seat fabric with additional bolstering (SofTex-trimmed seats may be available based on package/region)",
+        "Heated front seats",
+        "Power-adjustable driver’s seat (often 8-way with lumbar on many markets)",
+        "Leatherette-trimmed steering wheel",
+        "Heated steering wheel",
+        "Qi-compatible wireless smartphone charging pad",
+        "Dual or enhanced climate interface (single or dual depending on market, but more convenience controls)",
+        "7-in. digital gauge cluster",
+        "Smart Key System with Push Button Start on front doors and liftback"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "8-in. touchscreen (available 12.3-in. touchscreen with package)",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription",
+          "Six-speaker audio system",
+          "Cloud-based navigation capability with Drive Connect subscription",
+          "Integrated voice assistant ('Hey Toyota')",
+          "OTA-capable multimedia software updates"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial (data cap and time-limited, 4G network dependent)",
+        "Safety Connect with up to 10-year trial",
+        "Service Connect with up to 10-year trial",
+        "Remote Connect with trial period (typically 1 year)",
+        "Drive Connect trial period for cloud navigation and live data services"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Pre-Collision System with Pedestrian and bicyclist detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Front and rear parking sensors (often standard or available depending on package)",
+        "Rearview camera with dynamic guidelines",
+        "Star Safety System",
+        "Advanced airbag system"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "XLE Fixed Glass Roof / Premium Package (market-dependent)",
+          "contents": [
+            "Fixed glass roof",
+            "Upgrade from 8-in. to 12.3-in. Toyota Audio Multimedia touchscreen",
+            "Enhanced interior trim and additional comfort features"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "Nightshade Edition",
+      "msrp": "$32,560",
+      "mechanical_performance": {
+        "engine": "2.0L 4-cylinder hybrid engine with electric motor",
+        "net_combined_hp": 194,
+        "transmission": "Electronically controlled Continuously Variable Transmission (eCVT)",
+        "drivetrain": "Front-Wheel Drive (FWD); available Electronic On-Demand All-Wheel Drive (AWD)",
+        "drive_modes": ["Normal", "Eco", "Sport"],
+        "mpg_est": { "city": 52, "highway": 52, "combined": 52 },
+        "features": [
+          "Hybrid powertrain with 2.0L 4-cylinder gas engine and electric motor",
+          "Approx. 194 hp with FWD (196 hp with available AWD)",
+          "Electronically controlled Continuously Variable Transmission (eCVT)",
+          "Front-Wheel Drive (FWD) with available Electronic On-Demand All-Wheel Drive (AWD)",
+          "Selectable Normal, Eco and Sport drive modes",
+          "EPA-estimated ~52 city / 52 highway / 52 combined mpg for FWD",
+          "EPA-estimated ~49 city / 50 highway / 49 combined mpg for available AWD"
+        ]
+      },
+      "exterior_features": [
+        "19-in. black-finished alloy wheels",
+        "Black exterior badging",
+        "Black bumper trim",
+        "Black roof-mounted shark-fin antenna",
+        "Black front door handles and black door-sill accents",
+        "Nightshade-exclusive Karashi exterior color available (along with select standard Prius colors like Midnight Black Metallic and Wind Chill Pearl)",
+        "LED projector headlights and LED DRL",
+        "LED taillights and stop lights",
+        "Power liftback"
+      ],
+      "interior_features": [
+        "SofTex-trimmed sport seats with gray contrast stitching (Nightshade-specific upholstery theme)",
+        "Heated front seats",
+        "Power-adjustable driver’s seat (typically 8-way with lumbar support)",
+        "Nightshade-themed interior accents (darker trim elements, carbon-fiber-style details on dashboard in some markets)",
+        "Leather-trimmed steering wheel",
+        "Heated steering wheel",
+        "Qi-compatible wireless smartphone charging pad",
+        "7-in. digital gauge cluster",
+        "Smart Key System with Push Button Start on front doors and liftback",
+        "Puddle lights that project a Prius logo (Nightshade-exclusive in many markets)"
+      ],
+      "audio_multimedia": {
+        "system_name": "12.3-in. Toyota Audio Multimedia",
+        "display": "12.3-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription",
+          "Enhanced six- or eight-speaker audio system depending on market (often paired with JBL on higher packages)",
+          "Cloud-based navigation via Drive Connect subscription",
+          "Integrated voice assistant",
+          "OTA-capable multimedia and map updates"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial (data cap and time-limited, 4G network dependent)",
+        "Safety Connect with up to 10-year trial",
+        "Service Connect with up to 10-year trial",
+        "Remote Connect with trial period (typically 1 year)",
+        "Drive Connect trial period for cloud navigation, live traffic and POI search"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Pre-Collision System with Pedestrian and bicyclist detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Front and rear parking sensors with low-speed braking support on many configurations",
+        "Rearview camera with dynamic guidelines",
+        "Star Safety System",
+        "Advanced airbag system",
+        "Available surround-view / Panoramic View Monitor on certain option packages"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Nightshade Tech / Advanced Package (market-dependent)",
+          "contents": [
+            "Upgrade to JBL Premium Audio system with 8 speakers and amplifier",
+            "Additional driver-assist features such as Advanced Park or Panoramic View Monitor where available",
+            "Digital rearview mirror and Digital Key capability depending on market"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "Limited",
+      "msrp": "$35,365",
+      "mechanical_performance": {
+        "engine": "2.0L 4-cylinder hybrid engine with electric motor",
+        "net_combined_hp": 194,
+        "transmission": "Electronically controlled Continuously Variable Transmission (eCVT)",
+        "drivetrain": "Front-Wheel Drive (FWD); available Electronic On-Demand All-Wheel Drive (AWD)",
+        "drive_modes": ["Normal", "Eco", "Sport"],
+        "mpg_est": { "city": 52, "highway": 52, "combined": 52 },
+        "features": [
+          "Hybrid powertrain with 2.0L 4-cylinder gas engine and electric motor",
+          "Approx. 194 hp with FWD (196 hp with available AWD)",
+          "Electronically controlled Continuously Variable Transmission (eCVT)",
+          "Front-Wheel Drive (FWD) with available Electronic On-Demand All-Wheel Drive (AWD)",
+          "Selectable Normal, Eco and Sport drive modes",
+          "EPA-estimated ~52 city / 52 highway / 52 combined mpg for FWD",
+          "EPA-estimated ~49 city / 50 highway / 49 combined mpg for available AWD"
+        ]
+      },
+      "exterior_features": [
+        "19-in. alloy wheels",
+        "Fixed glass roof",
+        "Bi-LED projector headlights with Automatic High Beams",
+        "LED DRL, taillights and stop lights",
+        "Heated power outside mirrors with turn signal indicators",
+        "Power liftback",
+        "Available power liftback with hands-free function in some markets"
+      ],
+      "interior_features": [
+        "SofTex-trimmed seats with upscale surfaces",
+        "Heated and ventilated front seats",
+        "Power driver’s seat with memory function",
+        "Available heated rear outboard seats on some packages",
+        "12.3-in. digital-style gauge cluster or enhanced driver display (market-dependent)",
+        "Digital rearview mirror (available or standard depending on market)",
+        "Qi-compatible wireless smartphone charging pad",
+        "Interior ambient lighting and upgraded trim materials",
+        "Smart Key System on all doors and liftback with Push Button Start",
+        "Available Digital Key functionality on some packages"
+      ],
+      "audio_multimedia": {
+        "system_name": "12.3-in. Toyota Audio Multimedia with JBL Premium Audio (on most Limited configs)",
+        "display": "12.3-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription",
+          "JBL Premium Audio system with 8 speakers and amplifier (typically standard on Limited)",
+          "Cloud-based navigation with Drive Connect subscription",
+          "Integrated voice assistant with natural-language commands",
+          "OTA-capable multimedia and map updates"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial (data cap and time-limited, 4G network dependent)",
+        "Safety Connect with up to 10-year trial",
+        "Service Connect with up to 10-year trial",
+        "Remote Connect with trial period (typically 1 year)",
+        "Drive Connect with trial period for cloud navigation and live services"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Pre-Collision System with enhanced Pedestrian and bicyclist detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Front and rear parking sensors with automatic braking in some situations (Parking Support Brake / similar feature depending on market)",
+        "Available Advanced Park (automated parking assist) on certain configurations",
+        "Available Panoramic View Monitor (PVM) 360-degree camera system with curb view, on certain packages",
+        "Star Safety System",
+        "Advanced airbag system"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Limited Advanced Tech / Premium Package (market-dependent)",
+          "contents": [
+            "Panoramic View Monitor with 360-degree Overhead View and curb view",
+            "Advanced Park automatic parking assist",
+            "Digital Key capability and additional connected convenience features",
+            "Heated rear outboard seats",
+            "Additional driver-assist enhancements depending on market"
+          ]
+        }
+      ]
+    }
+  ]
+}

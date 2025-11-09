@@ -1,0 +1,234 @@
+{
+    "make": "Toyota",
+    "model": "GR86",
+    "color_options": [
+      "Track bRED",
+      "Raven",
+      "Steel",
+      "Ridge Green",
+      "Halo",
+      "Pavement",
+      "Trueno Blue"
+    ],
+    "trims": [
+      {
+        "trim_name": "GR86",
+        "msrp": "$30,500",
+        "mechanical_performance": {
+          "engine": "FA24 2.4L naturally aspirated, horizontally opposed 4-cylinder boxer-four",
+          "net_combined_hp": 228,
+          "transmission": "Short-throw 6-speed close-ratio Manual Transmission or 6-speed Electronically Controlled automatic Transmission (ECT) with paddle shifters",
+          "drivetrain": "Rear-Wheel Drive (RWD)",
+          "drive_modes": ["Normal", "Sport", "Track"],
+          "mpg_est": { "city": 21, "highway": 31, "combined": 25 },
+          "features": [
+            "FA24 2.4L naturally aspirated, horizontally opposed 4-cylinder boxer-four",
+            "228 hp @ 7000 rpm; 184 lb.-ft. of torque @ 3700 rpm",
+            "Short-throw 6-speed close-ratio Manual Transmission",
+            "6-speed Electronically Controlled automatic Transmission (ECT) with paddle shifters",
+            "Torsen limited-slip differential",
+            "GR circuit-tuned coil springs, shock absorbers, iron front knuckles, and rear suspension-member-mounted stabilizer bar",
+            "Rear-Wheel Drive (RWD)"
+          ]
+        },
+        "exterior_features": [
+          "17-in. machined-finish alloy wheels",
+          "Auto-leveling dual LED headlights and turn signal indicators",
+          "Daytime Running Lights (DRL)",
+          "LED rear combination lights with rear decklid-mounted LED stop light and backup light",
+          "Black heated power outside mirrors",
+          "Dual chrome-tipped exhaust",
+          "Black functional matrix front grille with G-mesh insert, GR badge and functional air inlet ducts with black accent trim",
+          "Color-keyed roof with double bubble feature",
+          "Functional black front-wheel-arch air outlet vent"
+        ],
+        "interior_features": [
+          "Sport front bucket seats with black side bolsters and seat insert fabric with G-embossed design",
+          "6-way adjustable driver's seat",
+          "4-way adjustable front passenger seat",
+          "GR digital gauge cluster with Normal/Sport/Track modes",
+          "Dual zone automatic climate control",
+          "Multi-function in-key remote keyless entry system with lock, unlock, panic and trunk-release functions",
+          "GR Push Button Start",
+          "Leather-wrapped parking brake handle cover with contrast stitching",
+          "Leather gearshift boot with silver contrast stitching",
+          "GR leather-trimmed tilt/telescopic steering wheel with contrast stitching and audio controls"
+        ],
+        "audio_multimedia": {
+          "system_name": "GR86 Audio",
+          "display": "8-in. touchscreen",
+          "features": [
+            "8-in. touchscreen",
+            "Six speakers including amplifier",
+            "Apple CarPlay compatibility",
+            "Android Auto compatibility",
+            "SiriusXM 3-month trial subscription"
+          ]
+        },
+        "connected_services_trials": [
+          "Safety Connect with 1-year trial",
+          "Service Connect with 1-year trial",
+          "Remote Connect with 1-year trial"
+        ],
+        "safety_convenience_features": [
+          "GR86 Active Safety Suite",
+          "Pre-Collision Braking System (PCBS)",
+          "Pre-Collision Throttle Management",
+          "Adaptive Cruise Control (automatic transmission only) with Lead Vehicle Start Alert",
+          "Lane Departure Warning with Sway Warning",
+          "Automatic High Beams",
+          "Rear Parking Sonar with Reverse Automatic Braking (automatic transmission only"
+        ],
+        "options_and_packages": []
+      },
+      {
+        "trim_name": "GR86 Premium",
+        "msrp": "$33,500",
+        "mechanical_performance": {
+          "engine": "FA24 2.4L naturally aspirated, horizontally opposed 4-cylinder boxer-four",
+          "net_combined_hp": 228,
+          "transmission": "Short-throw 6-speed close-ratio Manual Transmission or 6-speed Electronically Controlled automatic Transmission (ECT) with paddle shifters",
+          "drivetrain": "Rear-Wheel Drive (RWD)",
+          "drive_modes": ["Normal", "Sport", "Track"],
+          "mpg_est": { "city": 21, "highway": 31, "combined": 25 },
+          "features": [
+            "FA24 2.4L naturally aspirated, horizontally opposed 4-cylinder boxer-four",
+            "228 hp @ 7000 rpm; 184 lb.-ft. of torque @ 3700 rpm",
+            "Short-throw 6-speed close-ratio Manual Transmission",
+            "6-speed Electronically Controlled automatic Transmission (ECT) with paddle shifters",
+            "Torsen limited-slip differential",
+            "GR circuit-tuned coil springs, shock absorbers, iron front knuckles, and rear suspension-member-mounted stabilizer bar",
+            "Rear-Wheel Drive (RWD)"
+          ]
+        },
+        "exterior_features": [
+          "18-in. matte-black-painted alloy wheels with Michelin Pilot Sport 4 tires",
+          "Color-keyed duckbill rear spoiler",
+          "Adaptive Front-Lighting System (AFS)",
+          "Auto-leveling dual LED headlights, DRL and LED rear combination lights",
+          "Black heated power outside mirrors",
+          "Dual chrome-tipped exhaust",
+          "Black functional matrix front grille with G-mesh insert, GR badge and functional air inlet ducts",
+          "Color-keyed roof with double bubble feature",
+          "Functional black front-wheel-arch air outlet vent"
+        ],
+        "interior_features": [
+          "Two-stage heated sport seats with leather-trimmed bolsters and Ultrasuede-trimmed inserts",
+          "6-way adjustable driver’s seat with seatback pocket",
+          "4-way adjustable front passenger seat with seatback pocket",
+          "Aluminum sport pedals and footrest",
+          "GR digital gauge cluster with Normal/Sport/Track modes",
+          "Dual zone automatic climate control",
+          "Multi-function in-key remote keyless entry system with lock, unlock, panic and trunk-release functions",
+          "GR Push Button Start",
+          "Leather-wrapped parking brake handle cover with contrast stitching",
+          "Leather gearshift boot with contrast stitching",
+          "GR leather-trimmed tilt/telescopic steering wheel with contrast stitching and audio controls"
+        ],
+        "audio_multimedia": {
+          "system_name": "GR86 Audio",
+          "display": "8-in. touchscreen",
+          "features": [
+            "8-in. touchscreen",
+            "Eight speakers including amplifier",
+            "Apple CarPlay compatibility",
+            "Android Auto compatibility",
+            "SiriusXM 3-month trial subscription"
+          ]
+        },
+        "connected_services_trials": [
+          "Safety Connect with 1-year trial",
+          "Service Connect with 1-year trial",
+          "Remote Connect with 1-year trial"
+        ],
+        "safety_convenience_features": [
+          "GR86 Active Safety Suite",
+          "Pre-Collision Braking System (PCBS)",
+          "Pre-Collision Throttle Management",
+          "Adaptive Cruise Control (automatic transmission only) with Lead Vehicle Start Alert",
+          "Lane Departure Warning with Sway Warning",
+          "Automatic High Beams",
+          "Rear Parking Sonar with Reverse Automatic Braking (automatic transmission only)",
+          "Blind Spot Detection (BSD) with Rear Cross-Traffic Alert (RCTA)"
+        ],
+        "options_and_packages": []
+      },
+      {
+        "trim_name": "GR86 Hakone Edition",
+        "msrp": "$36,000",
+        "mechanical_performance": {
+          "engine": "FA24 2.4L naturally aspirated, horizontally opposed 4-cylinder boxer-four",
+          "net_combined_hp": 228,
+          "transmission": "Short-throw 6-speed close-ratio Manual Transmission or 6-speed Electronically Controlled automatic Transmission (ECT) with paddle shifters",
+          "drivetrain": "Rear-Wheel Drive (RWD)",
+          "drive_modes": ["Normal", "Sport", "Track"],
+          "mpg_est": { "city": 21, "highway": 31, "combined": 25 },
+          "features": [
+            "FA24 2.4L naturally aspirated, horizontally opposed 4-cylinder boxer-four",
+            "228 hp @ 7000 rpm; 184 lb.-ft. of torque @ 3700 rpm",
+            "Short-throw 6-speed close-ratio Manual Transmission",
+            "6-speed Electronically Controlled automatic Transmission (ECT) with paddle shifters",
+            "Torsen limited-slip differential",
+            "MacPherson strut front suspension and multi-link rear suspension with SACHS dampers",
+            "Brembo 4-piston front disc brakes with 12.8-in. ventilated rotors",
+            "Brembo 2-piston rear disc brakes with 12.4-in. solid rotors",
+            "Rear-Wheel Drive (RWD)"
+          ]
+        },
+        "exterior_features": [
+          "18-in. matte-bronze-painted alloy wheels with gloss-black lug nuts",
+          "Rear Hakone Edition badging",
+          "Limited Ridge Green color",
+          "Auto-leveling dual LED headlights, DRL and LED rear combination lights",
+          "Black heated power outside mirrors",
+          "Dual chrome-tipped exhaust",
+          "Black functional matrix front grille with G-mesh insert, GR badge and functional air inlet ducts",
+          "Color-keyed roof with double bubble feature",
+          "Functional black front-wheel-arch air outlet vent"
+        ],
+        "interior_features": [
+          "Two-stage heated sport seats with tan leather-trimmed bolsters and Ultrasuede-trimmed inserts, tan seat stripe and contrast stitching",
+          "6-way adjustable driver's seat with seatback pocket",
+          "4-way adjustable front passenger seat with seatback pocket",
+          "Leather-trimmed gearshift boot with tan contrast stitching",
+          "Tan leather-trimmed Hakone Edition owner's folio and key glove",
+          "GR leather-trimmed manual tilt/telescopic 3-spoke sport steering wheel with tan contrast stitching, audio and MID controls (manual transmission)",
+          "GR leather-trimmed tilt/telescopic 3-spoke sport steering wheel with tan contrast stitching, audio, MID, Adaptive Cruise Control button and paddle shifters (automatic transmission)",
+          "Leather-trimmed 6-MT Hakone Edition shift lever and knob with matte-bronze stripe",
+          "Leather-trimmed 6-AT Hakone Edition shift lever and knob with matte-bronze stripe",
+          "Hand-lever parking brake with leather-trimmed handle cover and tan contrast stitching",
+          "Cast-black interior ornamentation",
+          "Hakone Edition limited-production commemorative plaque",
+          "Driver and passenger Hakone Edition puddle lights",
+          "Tan contrast-stitched armrests",
+          "Hakone Edition floor mats and trunk mat with tan stitching"
+        ],
+        "audio_multimedia": {
+          "system_name": "GR86 Audio",
+          "display": "8-in. touchscreen",
+          "features": [
+            "8-in. touchscreen",
+            "Eight speakers",
+            "Apple CarPlay compatibility",
+            "Android Auto compatibility",
+            "SiriusXM 3-month trial subscription"
+          ]
+        },
+        "connected_services_trials": [
+          "Safety Connect with 1-year trial",
+          "Service Connect with 1-year trial",
+          "Remote Connect with 1-year trial"
+        ],
+        "safety_convenience_features": [
+          "GR86 Active Safety Suite",
+          "Pre-Collision Braking System (PCBS)",
+          "Pre-Collision Throttle Management",
+          "Adaptive Cruise Control (automatic transmission only) with Lead Vehicle Start Alert",
+          "Lane Departure Warning with Sway Warning",
+          "Automatic High Beams",
+          "Rear Parking Sonar with Reverse Automatic Braking (automatic transmission only)"
+        ],
+        "options_and_packages": []
+      }
+    ]
+  }  

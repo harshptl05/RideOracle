@@ -1,0 +1,163 @@
+{
+  "make": "Toyota",
+  "model": "bZ4X",
+  "color_options": [
+    "Wind Chill Pearl",
+    "Heavy Metal",
+    "Supersonic Red",
+    "Elemental Silver Metallic",
+    "Black",
+    "Storm Cloud",
+    "Smoke Silver",
+    "Ebony"
+  ],
+  "trims": [
+    {
+      "trim_name": "XLE FWD",
+      "msrp": "$38,465",
+      "mechanical_performance": {
+        "engine": "Single Electric Motor",
+        "net_combined_hp": 201,
+        "transmission": "1-speed direct drive",
+        "drivetrain": "Front-Wheel Drive (FWD)",
+        "drive_modes": ["Normal", "Eco", "Sport"],
+        "mpg_est": { "city": 131, "highway": 107, "combined": 119 },
+        "features": [
+          "Single electric motor producing approx. 201 hp",
+          "1-speed direct-drive automatic transmission",
+          "Front-Wheel Drive (FWD)",
+          "Selectable drive modes: Normal, Eco, Sport",
+          "EPA-estimated range around 250+ miles on a full charge (FWD)"
+        ]
+      },
+      "exterior_features": [
+        "18-in. alloy wheels",
+        "LED headlights and taillights",
+        "Aerodynamic underbody panels",
+        "Power liftgate available",
+        "Color-keyed power outside mirrors with turn-signal indicators"
+      ],
+      "interior_features": [
+        "Seating for up to five passengers",
+        "Fabric-trimmed seats",
+        "8-way power-adjustable driver’s seat",
+        "Dual-zone automatic climate control",
+        "Heated front seats available with Weather Package",
+        "60/40 split fold-flat rear seat"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "12.3-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription",
+          "Six-speaker audio system"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial (data plan required after trial)",
+        "Safety Connect with up to 10-year trial",
+        "Service Connect with up to 10-year trial",
+        "Remote Connect capable (subscription required, select features only)",
+        "Drive Connect capable (subscription required, select features only)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Eight airbags",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Weather Package",
+          "contents": [
+            "Heated front seats",
+            "Heated steering wheel",
+            "Rain-sensing wipers with de-icer function"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "Limited AWD",
+      "msrp": "$42,990",
+      "mechanical_performance": {
+        "engine": "Dual Electric Motors",
+        "net_combined_hp": 214,
+        "transmission": "1-speed direct drive",
+        "drivetrain": "All-Wheel Drive (AWD)",
+        "drive_modes": ["Normal", "Eco", "Sport", "Snow"],
+        "mpg_est": { "city": 114, "highway": 94, "combined": 104 },
+        "features": [
+          "Dual-motor AWD system producing approx. 214 hp",
+          "1-speed direct-drive transmission",
+          "Selectable drive modes: Normal, Eco, Sport, Snow",
+          "EPA-estimated range around 220–230 miles (AWD)"
+        ]
+      },
+      "exterior_features": [
+        "20-in. multi-spoke machine-finished alloy wheels",
+        "Premium LED headlights and taillights with Adaptive Front Lighting System (AFS)",
+        "Power liftgate with jam protection",
+        "Panoramic fixed-glass roof with power sunshade",
+        "Gloss-black wheel arch molding and roof accents"
+      ],
+      "interior_features": [
+        "SofTex-trimmed seats with multi-stage heating and ventilation",
+        "8-way power-adjustable driver’s seat with lumbar support",
+        "Heated steering wheel",
+        "Digital rearview mirror with HomeLink",
+        "Ambient interior lighting",
+        "Rear-seat vents and dual-zone climate control"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia with JBL Premium Audio",
+        "display": "12.3-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "JBL Premium Audio system with multiple speakers",
+          "SiriusXM 3-month trial subscription",
+          "Cloud-based navigation with Intelligent Assistant (Drive Connect)"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial",
+        "Service Connect with up to 10-year trial",
+        "Safety Connect with up to 10-year trial",
+        "Remote Connect with trial period (where equipped)",
+        "Drive Connect with trial period"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Eight airbags",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Front and Rear Parking Assist with Automatic Braking",
+        "Panoramic View Monitor (available)",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Technology Package",
+          "contents": [
+            "Panoramic View Monitor",
+            "Advanced Park (parking assist)",
+            "Digital rearview mirror with HomeLink",
+            "Heated rear seats"
+          ]
+        }
+      ]
+    }
+  ]
+}

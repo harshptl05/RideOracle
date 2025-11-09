@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Car Match System</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f3f4f6;
+      margin: 0;
+      padding: 0;
+    }
+    .navbar {
+      background-color: #1d4ed8;
+      color: white;
+      padding: 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .navbar a {
+      color: white;
+      text-decoration: none;
+      margin: 0 0.5rem;
+    }
+    .container {
+      padding: 1rem;
+    }
+    .card {
+      background: white;
+      border-radius: 0.5rem;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      padding: 1rem;
+      margin-bottom: 1rem;
+    }
+    .card img {
+      width: 100%;
+      border-radius: 0.5rem;
+    }
+    .filters input {
+      margin-right: 0.5rem;
+      padding: 0.5rem;
+      border: 1px solid #d1d5db;
+      border-radius: 0.25rem;
+    }
+    .button {
+      padding: 0.5rem 1rem;
+      border: none;
+      border-radius: 0.25rem;
+      background-color: #3b82f6;
+      color: white;
+      cursor: pointer;
+    }
+    .modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.5);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .modal-content {
+      background: white;
+      padding: 2rem;
+      border-radius: 0.5rem;
+      width: 90%;
+      max-width: 500px;
+    }
+  </style>
+</head>
+<body>
+  <div class="navbar">
+    <div>Car Match System</div>
+    <div>
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+      <button class="button" id="compare-button">Compare (<span id="compare-count">0</span>)</button>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="filters">
+      <input type="number" id="max-price" placeholder="Max Price">
+      <input type="number" id="doors" placeholder="Number of Doors">
+      <input type="number" id="fuel-economy" placeholder="Min Fuel Economy">
+      <button class="button" id="apply-filters">Apply Filters</button>
+    </div>
+
+    <div id="car-list" class="car-list"></div>
+
+    <button class="button" id="show-more">See More</button>
+  </div>
+
+  <!-- Compare Modal -->
+  <div id="compare-modal" class="modal" style="display: none;">
+    <div class="modal-content">
+      <h2>Compare Cars</h2>
+      <div id="compare-list"></div>
+      <button class="button" id="close-compare">Close</button>
+    </div>
+  </div>
+
+  <!-- Details Modal -->
+  <div id="details-modal" class="modal" style="display: none;">
+    <div class="modal-content">
+      <h2 id="details-title"></h2>
+      <p id="details-description"></p>
+      <button class="button" id="close-details">Close</button>
+    </div>
+  </div>
+
+  <script>
+    const cars = [
+      { id: 1, name: "Car A", price: 30000, doors: 4, fuelEconomy: 30, image: "https://via.placeholder.com/200", details: "Car A is a reliable sedan with excellent fuel efficiency and a modern design." },
+      { id: 2, name: "Car B", price: 25000, doors: 2, fuelEconomy: 25, image: "https://via.placeholder.com/200", details: "Car B is a sporty coupe, perfect for those who enjoy performance and style." },
+      { id: 3, name: "Car C", price: 40000, doors: 4, fuelEconomy: 35, image: "https://via.placeholder.com/200", details: "Car C is a premium SUV offering luxury and top-tier fuel economy." },
+      { id: 4, name: "Car D", price: 35000, doors: 4, fuelEconomy: 28, image: "https://via.placeholder.com/200", details: "Car D combines spaciousness with innovative technology for family trips." },
+      { id: 5, name: "Car E", price: 22000, doors: 4, fuelEconomy: 33, image: "https://via.placeholder.com/200", details: "Car E is an affordable and eco-friendly compact car." },
+      { id: 6, name: "Car F", price: 45000, doors: 4, fuelEconomy: 40, image: "https://via.placeholder.com/200", details: "Car F is a luxury hybrid vehicle with exceptional fuel economy and features." }
+    ];
+
+    let filters = { price: null, doors: null, fuelEconomy: null };
+    let compare = [];
+
+    const calculateMatch = (car, filters) => {
+      let match = 100;
+      if (filters.price && car.price > filters.price) match -= 20;
+      if (filters.doors && car.doors !== filters.doors) match -= 30;
+      if (filters.fuelEconomy && car.fuelEconomy < filters.fuelEconomy) match -= 20;
+      return match;
+    };
+
+    const renderCars = () => {
+      const carList = document.getElementById("car-list");
+      carList.innerHTML = "";
+
+      cars
+        .map((car) => ({ ...car, match: calculateMatch(car, filters) }))
+        .sort((a, b) => b.match - a.match)
+        .forEach((car) => {
+          const carCard = document.createElement("div");
+          carCard.className = "card";
+          carCard.innerHTML = `
+            <img src="${car.image}" alt="${car.name}">
+            <h3>${car.name}</h3>
+            <p>Match: ${car.match}%</p>
+            <button class="button" onclick="showDetails(${car.id})">Details</button>
+            <button class="button" onclick="toggleCompare(${car.id})">
+              ${compare.includes(car.id) ? "Remove from Compare" : "Add to Compare"}
+            </button>
+          `;
+          carList.appendChild(carCard);
+        });
+    };
+
+    const toggleCompare = (id) => {
+      if (compare.includes(id)) {
+        compare = compare.filter((carId) => carId !== id);
+      } else {
+        compare.push(id);
+      }
+      document.getElementById("compare-count").textContent = compare.length;
+      renderCars();
+    };
+
+    const showDetails = (id) => {
+      const car = cars.find((car) => car.id === id);
+      document.getElementById("details-title").textContent = car.name;
+      document.getElementById("details-description").textContent = car.details;
+      document.getElementById("details-modal").style.display = "flex";
+    };
+
+    document.getElementById("close-details").addEventListener("click", () => {
+      document.getElementById("details-modal").style.display = "none";
+    });
+
+    document.getElementById("compare-button").addEventListener("click", () => {
+      const compareModal = document.getElementById("compare-modal");
+      const compareList = document.getElementById("compare-list");
+      compareList.innerHTML = "";
+      compare.forEach((id) => {
+        const car = cars.find((car) => car.id === id);
+        const compareItem = document.createElement("div");
+        compareItem.className = "card";
+        compareItem.innerHTML = `
+          <h3>${car.name}</h3>
+          <p>Price: ${car.price}</p>
+          <p>Doors: ${car.doors}</p>
+          <p>Fuel Economy: ${car.fuelEconomy} MPG</p>
+        `;
+        compareList.appendChild(compareItem);
+      });
+      compareModal.style.display = "flex";
+    });
+
+    document.getElementById("close-compare").addEventListener("click", () => {
+      document.getElementById("compare-modal").style.display = "none";
+    });
+
+    document.getElementById("apply-filters").addEventListener("click", () => {
+      filters.price = parseInt(document.getElementById("max-price").value) || null;
+      filters.doors = parseInt(document.getElementById("doors").value) || null;
+      filters.fuelEconomy = parseInt(document.getElementById("fuel-economy").value) || null;
+      renderCars();
+    });
+
+    renderCars();
+  </script>
+</body>
+</html>

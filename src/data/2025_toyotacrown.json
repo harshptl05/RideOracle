@@ -1,0 +1,307 @@
+{
+  "make": "Toyota",
+  "model": "Crown",
+  "color_options": [
+    "Black",
+    "Supersonic Red",
+    "Bronze Age",
+    "Storm Cloud",
+    "Heavy Metal",
+    "Oxygen White"
+  ],
+  "trims": [
+    {
+      "trim_name": "XLE",
+      "msrp": "$41,440",
+      "mechanical_performance": {
+        "engine": "2.5L 4-Cylinder Hybrid System with two electric motors",
+        "net_combined_hp": 236,
+        "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+        "drivetrain": "All-Wheel Drive (AWD)",
+        "drive_modes": ["Normal", "Eco", "Sport", "EV"],
+        "mpg_est": { "city": 42, "highway": 41, "combined": 41 },
+        "features": [
+          "2.5L 4-Cylinder Hybrid System with two electric motors producing 236 net combined hp",
+          "Electronic On-Demand All-Wheel Drive (AWD)",
+          "Electronically controlled Continuously Variable Transmission (ECVT)",
+          "Drive modes include Normal, Eco, Sport, and EV",
+          "Approx. 42 city / 41 highway / 41 combined est. mpg"
+        ]
+      },
+      "exterior_features": [
+        "19-in. multi-spoke machined-finish alloy wheels with black accents",
+        "Bi-LED projector low and high beam headlights with Automatic High Beams",
+        "LED taillights and stop lights",
+        "Color-keyed power outside mirrors with turn signal and blind spot indicators",
+        "Acoustic laminated windshield and front side glass"
+      ],
+      "interior_features": [
+        "Heated front seats",
+        "8-way power-adjustable driver’s and front passenger seats",
+        "Dual-zone automatic climate control with air filter and rear vents",
+        "Soft-touch upper door trims and dashboard with ambient lighting",
+        "Leather-wrapped steering wheel with multi-function controls",
+        "Fixed rear seats with center armrest and cup holders"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "12.3-in. touchscreen display",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month Platinum trial subscription",
+          "Six speakers",
+          "Integrated backup camera display with dynamic gridlines"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial included for up to 3GB or 30 days (4G network dependent)",
+        "Remote Connect capable, subscription required (4G network dependent)",
+        "Drive Connect capable, subscription required (4G network dependent)",
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Eight airbags",
+        "Pre-Collision System with Pedestrian Detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Automatic High Beams"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Convenience Package",
+          "contents": [
+            "Rain-sensing windshield wipers",
+            "Power-folding outside mirrors",
+            "Auto-dimming rearview mirror with HomeLink",
+            "Smart Key System with Push Button Start"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "Limited",
+      "msrp": "$46,990",
+      "mechanical_performance": {
+        "engine": "2.5L 4-Cylinder Hybrid System with two electric motors",
+        "net_combined_hp": 236,
+        "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+        "drivetrain": "All-Wheel Drive (AWD)",
+        "drive_modes": ["Normal", "Eco", "Sport", "EV"],
+        "mpg_est": { "city": 42, "highway": 41, "combined": 41 },
+        "features": [
+          "2.5L 4-Cylinder Hybrid System with two electric motors producing 236 net combined hp",
+          "Electronic On-Demand All-Wheel Drive (AWD)",
+          "Electronically controlled Continuously Variable Transmission (ECVT)",
+          "Drive modes include Normal, Eco, Sport, and EV",
+          "Approx. 42 city / 41 highway / 41 combined est. mpg"
+        ]
+      },
+      "exterior_features": [
+        "19-in. multi-spoke dark gray metallic alloy wheels",
+        "Rain-sensing windshield wipers",
+        "Heated power outside mirrors with auto-fold, turn signals, and blind spot indicators",
+        "LED Daytime Running Lights (DRL)",
+        "Acoustic laminated windshield and front side glass"
+      ],
+      "interior_features": [
+        "Leather-trimmed and heated/ventilated front seats",
+        "Fixed rear seats with center armrest and cup holders",
+        "Heated steering wheel",
+        "Ambient interior lighting",
+        "Dual-zone automatic climate control with rear vents",
+        "Auto-dimming rearview mirror with HomeLink",
+        "Smart Key System with Push Button Start"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "12.3-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month Platinum trial subscription",
+          "JBL Premium Audio system with 11 speakers including subwoofer and amplifier"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial included for up to 3GB or 30 days (4G network dependent)",
+        "Remote Connect with 1-year trial (4G network dependent)",
+        "Drive Connect with 1-year trial (4G network dependent)",
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Eight airbags",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Front and Rear Parking Assist with Automatic Braking",
+        "Panoramic View Monitor",
+        "Pre-Collision System with Pedestrian Detection",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Advanced Tech Package",
+          "contents": [
+            "Digital Key capability",
+            "Head-Up Display (HUD)",
+            "Panoramic fixed glass roof with power sunshade"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "Nightshade Edition",
+      "msrp": "$48,020",
+      "mechanical_performance": {
+        "engine": "2.5L 4-Cylinder Hybrid System with two electric motors",
+        "net_combined_hp": 236,
+        "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+        "drivetrain": "All-Wheel Drive (AWD)",
+        "drive_modes": ["Normal", "Eco", "Sport", "EV"],
+        "mpg_est": { "city": 42, "highway": 41, "combined": 41 },
+        "features": [
+          "2.5L 4-Cylinder Hybrid System with two electric motors producing 236 net combined hp",
+          "Electronic On-Demand All-Wheel Drive (AWD)",
+          "Electronically controlled Continuously Variable Transmission (ECVT)",
+          "Drive modes include Normal, Eco, Sport, and EV",
+          "Approx. 42 city / 41 highway / 41 combined est. mpg"
+        ]
+      },
+      "exterior_features": [
+        "21-in. 10-spoke matte-black alloy wheels",
+        "Quad-LED projector low- and high-beam headlights with auto on/off feature",
+        "Panoramic fixed-glass roof with power sunshade",
+        "Black exterior badging and accents",
+        "Black outside door handles with front door touch-sensor lock/unlock feature",
+        "Black roof-mounted shark-fin antenna"
+      ],
+      "interior_features": [
+        "Leather-trimmed front seats with seatback pockets",
+        "8-way power-adjustable driver’s seat with lumbar support and memory function",
+        "8-way power-adjustable front passenger seat",
+        "Heated and ventilated front seats",
+        "Heated rear seats",
+        "12.3-in. digital gauge cluster with selectable gauges",
+        "Heated leather-trimmed tilt/telescopic steering wheel with audio and driver assist controls"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia with JBL Premium Audio",
+        "display": "12.3-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription",
+          "11 JBL speakers including subwoofer and amplifier"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial included for up to 3GB or 30 days (4G network dependent)",
+        "Remote Connect with 1-year trial (4G network dependent)",
+        "Drive Connect with 1-year trial (4G network dependent)",
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Eight airbags",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Front and Rear Parking Assist with Automatic Braking",
+        "Pre-Collision System with Pedestrian Detection",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist"
+      ],
+      "options_and_packages": []
+    },
+    {
+      "trim_name": "Platinum",
+      "msrp": "$53,370",
+      "mechanical_performance": {
+        "engine": "2.4L Turbocharged Hybrid MAX 4-Cylinder Engine",
+        "net_combined_hp": 340,
+        "transmission": "Direct Shift-6AT automatic transmission",
+        "drivetrain": "Full-time All-Wheel Drive (AWD)",
+        "drive_modes": ["Normal", "Sport", "Eco", "Comfort", "Custom"],
+        "mpg_est": { "city": 29, "highway": 32, "combined": 30 },
+        "features": [
+          "2.4L Turbocharged Hybrid MAX 4-Cylinder Engine with 340 net combined hp",
+          "Direct Shift-6AT automatic transmission",
+          "Full-time All-Wheel Drive (AWD)",
+          "Adaptive Variable Suspension (AVS)",
+          "Drive modes include Normal, Sport, Eco, Comfort, and Custom",
+          "Approx. 29 city / 32 highway / 30 combined est. mpg"
+        ]
+      },
+      "exterior_features": [
+        "21-in. multi-spoke machined-finish alloy wheels with black accents",
+        "Advanced Bi-LED projector headlights with Adaptive Front-Lighting System (AFS)",
+        "Panoramic fixed glass roof with power sunshade",
+        "Power-folding heated outside mirrors with memory and puddle lights",
+        "Sport front fascia with full-width LED light bar and body-color cladding"
+      ],
+      "interior_features": [
+        "Leather-trimmed heated and ventilated front and rear seats",
+        "Driver’s seat and side mirror memory function",
+        "12.3-in. fully digital gauge cluster",
+        "Heated leather-wrapped steering wheel with paddle shifters",
+        "Ambient interior lighting with multi-color selection",
+        "Qi-compatible wireless smartphone charging pad",
+        "Fixed rear seats with armrest and dual cup holders"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia with JBL Premium Audio",
+        "display": "12.3-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month Platinum trial subscription",
+          "11 JBL speakers including subwoofer and amplifier",
+          "Integrated navigation with cloud-based route learning"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial included for up to 3GB or 30 days (4G network dependent)",
+        "Remote Connect with 1-year trial (4G network dependent)",
+        "Drive Connect with 1-year trial (4G network dependent)",
+        "Safety Connect with up to 10-year trial (4G network dependent)",
+        "Service Connect with up to 10-year trial (4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Eight airbags",
+        "Advanced Park with hands-free parking assist",
+        "Bird’s Eye View Camera with perimeter scan",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Front and Rear Parking Assist with Automatic Braking",
+        "Traffic Jam Assist",
+        "Pre-Collision System with Pedestrian Detection",
+        "Full-Speed Range Dynamic Radar Cruise Control"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Tech & Luxury Package",
+          "contents": [
+            "Digital rearview mirror",
+            "Head-Up Display (HUD)",
+            "360-degree Panoramic View Monitor",
+            "Advanced Park Assist",
+            "Premium two-tone paint options"
+          ]
+        }
+      ]
+    }
+  ]
+}

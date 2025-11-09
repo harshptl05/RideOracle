@@ -1,0 +1,143 @@
+"use client";
+import { Button } from "@/components/Button";
+import LogoIcon from "@/assets/logo.svg";
+import starsBg from '@/assets/stars.png';
+import { motion, useMotionValueEvent, useScroll, useTransform } from "framer-motion";
+import { useRef } from "react";
+import Link from "next/link";
+
+export const Hero = () => {
+  const sectionRef = useRef(null);
+
+  const { scrollYProgress } = useScroll({
+    target: sectionRef,
+    offset:['start end', 'end start']
+  })
+
+  const backgroundPositionY = useTransform(scrollYProgress, [0,1], [-300,300]);
+
+  return(
+  <motion.section
+  ref={sectionRef}
+  className="h-[492px] md:h-[800px] flex items-center overflow-hidden relative"
+  style={{
+    backgroundImage: `url(${starsBg.src})`,
+    backgroundPositionY,
+    maskImage: "linear-gradient(to bottom, transparent, black 10%, black 90%, transparent)",
+    WebkitMaskImage: "linear-gradient(to bottom, transparent, black 10%, black 90%, transparent)", // For WebKit-based browsers
+  }}
+  animate={{
+    backgroundPositionX:starsBg.width,
+  }}
+  transition={{
+    repeat:Infinity,
+    ease:"linear",
+    duration:120,
+  }}
+>
+  <div className="absolute inset-0 bg-[radial-gradient(75%_75%_at_center_center,_rgba(255,255,255,0.1)_15%,_rgba(0,0,0,0.4)_78%,_transparent)]"></div>
+  {/*Start Planet*/}
+  <div className="absolute h-64 w-64 md:h-96 md:w-96 rounded-full border border-white/20 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-[radial-gradient(50%_50%_at_16.8%_18.3%,rgba(255,255,255,0.9),rgba(200,200,200,0.6)_37.7%,rgba(50,50,50,0.8))] shadow-[-20px_-20px_50px_rgba(255,255,255,0.3),_-20px_-20px_80px_rgba(255,255,255,0.1),0_0_50px_rgba(255,255,255,0.2)]"></div>
+  {/*End Planet*/}
+
+  {/*Start Ring 1*/}
+  <motion.div
+    style={{
+      translateX: '-50%',
+      translateY: '-50%',
+    }}
+    animate={{
+      rotate: "1turn",
+    }}
+    transition={{
+      repeat: Infinity,
+      duration: 60,
+      ease: "linear",
+    }}
+    className="absolute h-[344px] w-[344px] md:h-[580px] md:w-[580px] border border-white opacity-20 rounded-full top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
+    <div className="absolute h-2 w-2 left-0 bg-white rounded-full top-1/2 -translate-x-1/2 -translate-y-1/2"></div>
+    <div className="absolute h-2 w-2 left-1/2 bg-white rounded-full top-0 -translate-x-1/2 -translate-y-1/2"></div>
+    <div className="absolute h-5 w-5 left-full border border-white rounded-full top-1/2 -translate-x-1/2 -translate-y-1/2 inline-flex items-center justify-center">
+      <div className="h-2 w-2 bg-white rounded-full"></div>
+    </div>
+  </motion.div>
+  {/*End Ring 1*/}
+  {/*Start Ring 2*/}
+  <motion.div
+    style={{
+      translateX: '-50%',
+      translateY: '-50%',
+    }}
+    animate={{
+      rotate: "-1turn",
+    }}
+    transition={{
+      repeat: Infinity,
+      duration: 60,
+      ease: "linear",
+    }}
+    className = "absolute h-[444px] w-[444px] md:h-[780px] md:w-[780px] rounded-full border border-white/20 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 border-dashed"></motion.div>
+  {/*End Ring 2*/}
+  {/*Start Ring 3*/}
+  <motion.div 
+    style={{
+      translateX: '-50%',
+      translateY: '-50%',
+    }}
+    animate={{
+      rotate: "1turn",
+    }}
+    transition={{
+      repeat: Infinity,
+      duration: 90,
+      ease: "linear",
+    }}
+  className="absolute h-[544px] w-[544px] md:h-[980px] md:w-[980px] border border-white opacity-20 rounded-full top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
+    <div className="absolute h-2 w-2 left-0 bg-white rounded-full top-1/2 -translate-x-1/2 -translate-y-1/2"></div>
+    <div className="absolute h-2 w-2 left-full bg-white rounded-full top-1/2 -translate-x-1/2 -translate-y-1/2"></div>
+  </motion.div>
+  {/*End Ring 3*/}
+  {/* Logo at top left */}
+  <motion.div
+    initial={{ opacity: 0, y: -20 }}
+    animate={{ opacity: 1, y: 0 }}
+    transition={{ duration: 0.6, ease: "easeOut" }}
+    className="absolute top-6 left-6 md:top-8 md:left-8 z-10"
+  >
+    <Link href="/" className="cursor-pointer">
+      <div className="border h-10 w-10 rounded-lg inline-flex justify-center items-center border-white/15 hover:border-white/30 transition-colors bg-black/20 backdrop-blur-sm">
+        <LogoIcon className="h-8 w-8" />
+      </div>
+    </Link>
+  </motion.div>
+  <div className="container relative mt-16 pt-16 pb-16 md:pt-20 md:pb-20">
+  <motion.h1 
+    initial={{ opacity: 0, y: 30 }}
+    animate={{ opacity: 1, y: 0 }}
+    transition={{ duration: 0.8, ease: "easeOut" }}
+    className="text-7xl md:text-8xl leading-tight md:leading-[1.2] font-semibold tracking-tighter bg-white bg-[radial-gradient(100%_100%_at_top_left,white,white,rgba(200,200,200,0.5))] text-transparent bg-clip-text text-center"
+  >
+    Ride Oracle
+  </motion.h1>
+  <motion.p 
+    initial={{ opacity: 0, y: 20 }}
+    animate={{ opacity: 1, y: 0 }}
+    transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
+    className="text-lg md:text-xl text-white/80 mt-5 text-center max-w-xl mx-auto"
+  >
+    Elevate your experience effortlessly with AI-powered tools to help you find your dream ride.
+  </motion.p>
+  <motion.div 
+    initial={{ opacity: 0, y: 20 }}
+    animate={{ opacity: 1, y: 0 }}
+    transition={{ duration: 0.8, delay: 0.4, ease: "easeOut" }}
+    className="flex justify-center mt-8"
+  >
+    <Link href="/quiz">
+      <Button>Get Started</Button>
+    </Link>
+  </motion.div>
+</div>
+  </motion.section>
+  );
+};

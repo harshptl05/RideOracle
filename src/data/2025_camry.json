@@ -1,0 +1,330 @@
+{
+  "make": "Toyota",
+  "model": "Camry",
+  "color_options": [
+    "Midnight Black Metallic",
+    "Supersonic Red",
+    "Celestial Silver Metallic",
+    "Reservoir Blue",
+    "Heavy Metal",
+    "Wind Chill Pearl",
+    "Ocean Gem",
+    "Underground",
+    "Ice Cap"
+  ],
+  "trims": [
+    {
+      "trim_name": "LE",
+      "msrp": "$28,400",
+      "mechanical_performance": {
+        "engine": "2.5-Liter 4-Cylinder Gas/Electric Hybrid (HEV)",
+        "net_combined_hp": 225,
+        "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+        "drivetrain": "Front-Wheel Drive (FWD)",
+        "drive_modes": ["Eco", "Normal", "Sport", "EV"],
+        "mpg_est": { "city": 53, "highway": 50, "combined": 52 },
+        "features": [
+          "2.5-Liter 4-Cylinder Gas/Electric Hybrid (HEV) with 225 net combined hp",
+          "Electronically controlled Continuously Variable Transmission (ECVT)",
+          "Front-Wheel Drive (FWD)",
+          "Eco, Normal, Sport and EV drive modes",
+          "Approx. 53 city / 50 highway / 52 combined est. mpg"
+        ]
+      },
+      "exterior_features": [
+        "16-in. 10-spoke silver-painted alloy wheels",
+        "Bi-LED headlights with Automatic High Beams and auto on/off",
+        "LED taillights and stop lights",
+        "Color-keyed outside door handles",
+        "Color-keyed power outside mirrors"
+      ],
+      "interior_features": [
+        "Dual-zone automatic climate control with air filter, humidity sensor, and rear-seat vents",
+        "Fabric-trimmed seats",
+        "8-way power-adjustable driver’s seat",
+        "60/40 split fold-down rear seat",
+        "Digital gauge cluster with selectable gauges",
+        "Tilt/telescopic steering wheel with audio and driver information controls",
+        "Remote keyless entry system"
+      ],
+      "audio_multimedia": {
+        "system_name": "8-in. Toyota Audio Multimedia",
+        "display": "8-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription",
+          "Six speakers"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial",
+        "Service Connect with up to 10-year trial",
+        "Remote Connect capable (subscription required, select features only)",
+        "Safety Connect with up to 10-year trial",
+        "Drive Connect capable (subscription required, select features only)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Eight airbags",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams",
+        "Qi-compatible wireless smartphone charging (on certain packages)"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Convenience Package",
+          "contents": [
+            "Auto-dimming rearview mirror with HomeLink universal garage door opener",
+            "Smart Key System on front doors",
+            "Power-adjustable driver’s seat (if not already equipped)"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "SE",
+      "msrp": "$30,700",
+      "mechanical_performance": {
+        "engine": "2.5-Liter 4-Cylinder Gas/Electric Hybrid (HEV)",
+        "net_combined_hp": 225,
+        "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+        "drivetrain": "Front-Wheel Drive (FWD)",
+        "drive_modes": ["Eco", "Normal", "Sport", "EV"],
+        "mpg_est": { "city": 51, "highway": 48, "combined": 49 },
+        "features": [
+          "2.5-Liter 4-Cylinder Gas/Electric Hybrid (HEV) with 225 net combined hp",
+          "Electronically controlled Continuously Variable Transmission (ECVT)",
+          "Front-Wheel Drive (FWD)",
+          "Sport-tuned suspension",
+          "Eco, Normal, Sport and EV drive modes",
+          "Approx. 51 city / 48 highway / 49 combined est. mpg"
+        ]
+      },
+      "exterior_features": [
+        "18-in. multi-spoke black-finished alloy wheels",
+        "Black sport mesh front grille with racing-inspired air curtains and front side canards",
+        "Sport side rocker panels",
+        "Rear spoiler",
+        "Bi-LED headlights with Automatic High Beams and auto on/off"
+      ],
+      "interior_features": [
+        "Sport SofTex-trimmed front seats with fabric inserts",
+        "8-way power-adjustable driver’s seat",
+        "Leather-trimmed tilt/telescopic steering wheel with paddle shifters",
+        "Dual-zone automatic climate control with rear-seat vents",
+        "60/40 split fold-down rear seat",
+        "Digital gauge cluster with selectable gauges"
+      ],
+      "audio_multimedia": {
+        "system_name": "8-in. Toyota Audio Multimedia",
+        "display": "8-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription",
+          "Six speakers"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial",
+        "Service Connect with up to 10-year trial",
+        "Remote Connect capable (subscription required, select features only)",
+        "Safety Connect with up to 10-year trial",
+        "Drive Connect capable (subscription required, select features only)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Eight airbags",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert (available or standard depending on package)",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Convenience Package",
+          "contents": [
+            "Auto-dimming rearview mirror with HomeLink universal garage door opener",
+            "Smart Key System on front doors"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "XLE",
+      "msrp": "$33,400",
+      "mechanical_performance": {
+        "engine": "2.5-Liter 4-Cylinder Gas/Electric Hybrid (HEV)",
+        "net_combined_hp": 225,
+        "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+        "drivetrain": "Front-Wheel Drive (FWD)",
+        "drive_modes": ["Eco", "Normal", "Sport", "EV"],
+        "mpg_est": { "city": 51, "highway": 48, "combined": 49 },
+        "features": [
+          "2.5-Liter 4-Cylinder Gas/Electric Hybrid (HEV) with 225 net combined hp",
+          "Electronically controlled Continuously Variable Transmission (ECVT)",
+          "Front-Wheel Drive (FWD)",
+          "Eco, Normal, Sport and EV drive modes",
+          "Approx. 51 city / 48 highway / 49 combined est. mpg"
+        ]
+      },
+      "exterior_features": [
+        "18-in. two-tone multi-spoke machined- and black-finish alloy wheels",
+        "Dual LED projector headlights and premium LED combination taillights",
+        "Dark gray metallic bar front grille",
+        "Chrome-finished window trim"
+      ],
+      "interior_features": [
+        "Leather- and microfiber-trimmed interior",
+        "Multi-stage heated front seats",
+        "8-way power-adjustable driver’s seat with lumbar support",
+        "8-way power-adjustable front passenger seat",
+        "Digital gauge cluster with selectable gauges",
+        "Dual-zone automatic climate control with rear-seat vents",
+        "Qi-compatible wireless smartphone charging",
+        "Smart Key System with Push Button Start"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "Standard 8-in. touchscreen; available 12.3-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription",
+          "Six speakers standard",
+          "Available 9-speaker JBL Premium Audio including subwoofer and amplifier"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial",
+        "Service Connect with up to 10-year trial",
+        "Remote Connect with 1-year trial (when equipped)",
+        "Safety Connect with up to 10-year trial",
+        "Drive Connect with 1-year trial (when equipped)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Eight airbags",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Available front and rear parking assist with automatic braking on certain packages"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Premium Package",
+          "contents": [
+            "Panoramic glass roof with front power tilt/slide moonroof",
+            "9-speaker JBL Premium Audio system",
+            "Ventilated front seats",
+            "10-in. Head-Up Display",
+            "Digital Key capability",
+            "Rain-sensing windshield wipers",
+            "Driver’s seat and outer-mirror memory function"
+          ]
+        },
+        {
+          "package_name": "Premium Plus Package",
+          "contents": [
+            "Includes all Premium Package features",
+            "Additional advanced driver assistance features, where available"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "XSE",
+      "msrp": "$34,600",
+      "mechanical_performance": {
+        "engine": "2.5-Liter 4-Cylinder Gas/Electric Hybrid (HEV)",
+        "net_combined_hp": 225,
+        "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+        "drivetrain": "Front-Wheel Drive (FWD)",
+        "drive_modes": ["Eco", "Normal", "Sport", "EV"],
+        "mpg_est": { "city": 51, "highway": 48, "combined": 49 },
+        "features": [
+          "2.5-Liter 4-Cylinder Gas/Electric Hybrid (HEV) with 225 net combined hp",
+          "Electronically controlled Continuously Variable Transmission (ECVT)",
+          "Front-Wheel Drive (FWD)",
+          "Sport-tuned suspension",
+          "Eco, Normal, Sport and EV drive modes",
+          "Approx. 51 city / 48 highway / 49 combined est. mpg"
+        ]
+      },
+      "exterior_features": [
+        "19-in. smoked gray and black-finished alloy wheels",
+        "Dual LED projector headlights and premium LED combination taillights",
+        "Color-keyed sport mesh front grille, front side canards, and rear diffuser",
+        "Gloss-black rear spoiler and trunk garnish"
+      ],
+      "interior_features": [
+        "Leather-trimmed interior with multi-stage heated front seats",
+        "8-way power-adjustable driver’s seat",
+        "8-way power-adjustable front passenger seat",
+        "12.3-in. digital gauge cluster with selectable gauges (available/standard depending on package)",
+        "Dual-zone automatic climate control with rear-seat vents",
+        "Qi-compatible wireless smartphone charging",
+        "Smart Key System with Push Button Start"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "Standard 8-in. touchscreen; available 12.3-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription",
+          "Six speakers standard",
+          "Available 9-speaker JBL Premium Audio including subwoofer and amplifier"
+        ]
+      },
+      "connected_services_trials": [
+        "Wi-Fi Connect trial",
+        "Service Connect with up to 10-year trial",
+        "Remote Connect with 1-year trial (when equipped)",
+        "Safety Connect with up to 10-year trial",
+        "Drive Connect with 1-year trial (when equipped)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Star Safety System",
+        "Eight airbags",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Available front and rear parking assist with automatic braking on certain packages"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Premium Package",
+          "contents": [
+            "Panoramic glass roof with front power tilt/slide moonroof",
+            "9-speaker JBL Premium Audio system",
+            "Ventilated front seats",
+            "10-in. Head-Up Display",
+            "Digital Key capability"
+          ]
+        },
+        {
+          "package_name": "Premium Plus Package",
+          "contents": [
+            "Includes all Premium Package features",
+            "Additional advanced driver assistance features, where available"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "make": "Toyota",
+  "model": "Tacoma",
+  "color_options": [
+    "Terra",
+    "Supersonic Red",
+    "Black",
+    "Underground",
+    "Ice Cap",
+    "Bronze Oxide",
+    "Solar Octane",
+    "Blue Crush Metallic",
+    "Celestial Silver Metallic",
+    "Wind Chill Pearl"
+  ],
+  "trims": [
+    {
+      "trim_name": "SR",
+      "msrp": "$32,500",
+      "mechanical_performance": {
+        "engine": "i-FORCE 2.4L turbocharged engine (228 hp / 243 lb.-ft. with 8-speed automatic; 270 hp / 310 lb.-ft. with 6-speed manual)",
+        "net_combined_hp": 228,
+        "transmission": "8-speed Automatic Transmission or 6-speed Manual Transmission",
+        "drivetrain": "Rear-Wheel Drive (RWD) or 4WDemand part-time 4WD",
+        "drive_modes": [],
+        "mpg_est": { "city": 20, "highway": 26, "combined": 22 },
+        "features": [
+          "i-FORCE 2.4L turbocharged engine; 228 hp @ 6000 rpm; 243 lb.-ft. @ 1700 rpm with 8-speed automatic",
+          "i-FORCE 2.4L turbocharged engine; 270 hp @ 5400 rpm; 310 lb.-ft. @ 1700 rpm with 6-speed manual",
+          "Rear-Wheel Drive (RWD) or 4WDemand part-time 4WD",
+          "Twin-tube shocks",
+          "Leaf spring rear suspension",
+          "Class-IV towing hitch with 7-pin/4-pin connector (standard on Double Cab; available on XtraCab)"
+        ]
+      },
+      "exterior_features": [
+        "Twin-tube shocks",
+        "Leaf spring rear suspension",
+        "17-in. wheels",
+        "LED headlights",
+        "LED taillights",
+        "Class-IV towing hitch with 7-pin/4-pin connector (standard on Double Cab; available on XtraCab)"
+      ],
+      "interior_features": [
+        "Fabric-trimmed seats",
+        "7-in. digital meter",
+        "Smart Key System (driver door only)"
+      ],
+      "audio_multimedia": {
+        "system_name": "8-in. Toyota Audio Multimedia",
+        "display": "8-in. audio multimedia touchscreen display",
+        "features": [
+          "4-speaker audio with wireless Apple CarPlay and Android Auto compatibility; SiriusXM 3-month trial subscription (XtraCab)",
+          "6-speaker audio with wireless Apple CarPlay and Android Auto compatibility; SiriusXM 3-month trial subscription (Double Cab)"
+        ]
+      },
+      "connected_services_trials": [
+        "Connected Services availability varies by audio system; trial periods may be included"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Pre-Collision System with Pedestrian Detection (PCS w/PD)",
+        "Proactive Driving Assist (PDA) on automatic models",
+        "Lane Departure Alert with Steering Assist (LDA w/SA)",
+        "Automatic High Beams (AHB)",
+        "Road Sign Assist (RSA)",
+        "Full-Speed Range Dynamic Radar Cruise Control (DRCC) on AT models and Dynamic Radar Cruise Control on MT models"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "SR Upgrade Package (MT)",
+          "contents": [
+            "Additional convenience and comfort features for manual transmission models"
+          ]
+        },
+        {
+          "package_name": "SR Upgrade Package (AT)",
+          "contents": [
+            "Additional convenience and comfort features for automatic transmission models"
+          ]
+        },
+        {
+          "package_name": "Tow Package",
+          "contents": [
+            "Enhanced towing capability and additional towing equipment"
+          ]
+        },
+        {
+          "package_name": "Mudguards",
+          "contents": [
+            "Front and rear mudguards"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "SR5",
+      "msrp": "$36,000",
+      "mechanical_performance": {
+        "engine": "i-FORCE 2.4L turbocharged engine; 278 hp @ 6000 rpm; 317 lb.-ft. @ 1700 rpm",
+        "net_combined_hp": 278,
+        "transmission": "8-speed Automatic Transmission",
+        "drivetrain": "Rear-Wheel Drive (RWD) or 4WDemand part-time 4WD",
+        "drive_modes": [],
+        "mpg_est": { "city": 20, "highway": 26, "combined": 22 },
+        "features": [
+          "i-FORCE 2.4L turbocharged engine; 278 hp @ 6000 rpm; 317 lb.-ft. @ 1700 rpm",
+          "8-speed Automatic Transmission",
+          "Rear-Wheel Drive (RWD) or 4WDemand part-time 4WD",
+          "Multi-link rear suspension (Double Cab)",
+          "Leaf spring rear suspension (XtraCab)"
+        ]
+      },
+      "exterior_features": [
+        "Multi-link rear suspension (Double Cab)",
+        "Leaf spring rear suspension (XtraCab)",
+        "17-in. alloy wheels",
+        "LED headlights and taillights",
+        "LED fog lights",
+        "Class-IV towing hitch with 7-pin/4-pin connector",
+        "Deck rail with adjustable cleats"
+      ],
+      "interior_features": [
+        "Smart Key System (driver and front passenger doors only)",
+        "60/40 split, folding rear seat (Double Cab)",
+        "Fold-flat passenger seat (XtraCab)",
+        "Lockable rear storage panel (XtraCab)",
+        "Auto-dimming rearview mirror",
+        "Fabric-trimmed seats"
+      ],
+      "audio_multimedia": {
+        "system_name": "8-in. Toyota Audio Multimedia",
+        "display": "8-in. audio multimedia touchscreen display",
+        "features": [
+          "4-speaker audio with wireless Apple CarPlay and Android Auto compatibility; SiriusXM 3-month trial subscription (XtraCab)",
+          "6-speaker audio with wireless Apple CarPlay and Android Auto compatibility; SiriusXM 3-month trial subscription (Double Cab)"
+        ]
+      },
+      "connected_services_trials": [
+        "Connected Services availability varies by audio system; trial periods may be included"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Pre-Collision System with Pedestrian Detection (PCS w/PD)",
+        "Proactive Driving Assist (PDA)",
+        "Lane Departure Alert with Steering Assist (LDA w/SA)",
+        "Automatic High Beams (AHB)",
+        "Road Sign Assist (RSA)",
+        "Full-Speed Range Dynamic Radar Cruise Control (DRCC)"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "SR5 Upgrade Package",
+          "contents": [
+            "Additional comfort and convenience features",
+            "Upgraded interior and exterior details"
+          ]
+        },
+        {
+          "package_name": "SR5 Upgrade Package Plus Cold Weather Package",
+          "contents": [
+            "All features of SR5 Upgrade Package",
+            "Cold Weather Package with heated features such as heated front seats"
+          ]
+        },
+        {
+          "package_name": "Mudguards",
+          "contents": [
+            "Front and rear mudguards"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "TRD PreRunner",
+      "msrp": "$38,500",
+      "mechanical_performance": {
+        "engine": "i-FORCE 2.4L turbocharged engine; 278 hp @ 6000 rpm; 317 lb.-ft. @ 1700 rpm",
+        "net_combined_hp": 278,
+        "transmission": "8-speed Automatic Transmission",
+        "drivetrain": "Rear-Wheel Drive (RWD)",
+        "drive_modes": [],
+        "mpg_est": { "city": 20, "highway": 24, "combined": 21 },
+        "features": [
+          "i-FORCE 2.4L turbocharged engine; 278 hp @ 6000 rpm; 317 lb.-ft. @ 1700 rpm",
+          "8-speed Automatic Transmission",
+          "Rear-Wheel Drive (RWD)",
+          "17-in. alloy wheels with all-terrain tires",
+          "Electronically controlled locking rear differential",
+          "Front suspension lift",
+          "Leaf spring rear suspension"
+        ]
+      },
+      "exterior_features": [
+        "17-in. alloy wheels with all-terrain tires",
+        "Electronically controlled locking rear differential",
+        "Front suspension lift",
+        "Leaf spring rear suspension",
+        "TRD PreRunner bedside decals"
+      ],
+      "interior_features": [
+        "Fabric-trimmed seats",
+        "Fold-flat passenger seat",
+        "Lockable rear storage panel with integrated pegboard",
+        "Deep storage compartment"
+      ],
+      "audio_multimedia": {
+        "system_name": "8-in. Toyota Audio Multimedia",
+        "display": "8-in. audio multimedia touchscreen display",
+        "features": [
+          "4-speaker audio with wireless Apple CarPlay and Android Auto compatibility; SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Connected Services availability varies by audio system; trial periods may be included"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Pre-Collision System with Pedestrian Detection (PCS w/PD)",
+        "Proactive Driving Assist (PDA)",
+        "Lane Departure Alert with Steering Assist (LDA w/SA)",
+        "Automatic High Beams (AHB)",
+        "Road Sign Assist (RSA)",
+        "Full-Speed Range Dynamic Radar Cruise Control (DRCC)"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "TRD PreRunner Upgrade Package",
+          "contents": [
+            "Additional TRD appearance and convenience features"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "TRD Sport",
+      "msrp": "$41,500",
+      "mechanical_performance": {
+        "engine": "i-FORCE 2.4L turbocharged engine or i-FORCE MAX 2.4L turbocharged hybrid powertrain",
+        "net_combined_hp": 326,
+        "transmission": "8-speed Automatic Transmission or 6-speed Manual Transmission",
+        "drivetrain": "Rear-Wheel Drive (RWD) or 4WDemand part-time 4WD",
+        "drive_modes": [],
+        "mpg_est": { "city": 20, "highway": 26, "combined": 22 },
+        "features": [
+          "i-FORCE 2.4L turbocharged engine; 278 hp @ 6000 rpm; 317 lb.-ft. @ 1700 rpm (8-speed automatic)",
+          "i-FORCE 2.4L turbocharged engine; 270 hp @ 5400 rpm; 310 lb.-ft. @ 1700 rpm (6-speed manual)",
+          "i-FORCE MAX 2.4L turbocharged hybrid powertrain; 326 hp @ 6000 rpm; 465 lb.-ft. @ 1700 rpm (8-speed automatic)",
+          "Rear-Wheel Drive (RWD) or 4WDemand part-time 4WD",
+          "Sport-tuned TRD suspension and styling"
+        ]
+      },
+      "exterior_features": [
+        "18-in. machined alloy wheels",
+        "LED fog lights",
+        "LED bed lighting",
+        "Hood scoop",
+        "TRD Sport bedside decals",
+        "Black badging"
+      ],
+      "interior_features": [
+        "Leather-trimmed manual tilt/telescopic steering wheel",
+        "Smart Key System on driver and front passenger doors",
+        "TRD-branded Push Button Start",
+        "60/40 split, folding rear seat with under-seat storage",
+        "Fabric-trimmed seats",
+        "Automatic climate control with air filtration",
+        "Aluminum pedals"
+      ],
+      "audio_multimedia": {
+        "system_name": "8-in. Toyota Audio Multimedia (available 14-in. on Premium Package)",
+        "display": "8-in. audio multimedia touchscreen display (available 14-in.)",
+        "features": [
+          "6-speaker audio with wireless Apple CarPlay and Android Auto compatibility; SiriusXM 3-month trial subscription",
+          "Available 14-in. audio multimedia touchscreen display on TRD Sport Premium Package"
+        ]
+      },
+      "connected_services_trials": [
+        "Connected Services availability varies by audio system; trial periods may be included"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Pre-Collision System with Pedestrian Detection (PCS w/PD)",
+        "Proactive Driving Assist (PDA) on AT models",
+        "Lane Departure Alert with Steering Assist (LDA w/SA)",
+        "Automatic High Beams (AHB)",
+        "Road Sign Assist (RSA)",
+        "Full-Speed Range Dynamic Radar Cruise Control (DRCC) on AT models",
+        "Dynamic Radar Cruise Control on MT models"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "TRD Sport Upgrade Package",
+          "contents": [
+            "Additional comfort and tech features over standard TRD Sport"
+          ]
+        },
+        {
+          "package_name": "TRD Sport Premium Package",
+          "contents": [
+            "Heated front seats",
+            "14-in. audio multimedia touchscreen display",
+            "Power tilt/slide moonroof",
+            "Additional premium interior and exterior details",
+            "Mudguards"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "TRD Off-Road",
+      "msrp": "$43,500",
+      "mechanical_performance": {
+        "engine": "i-FORCE 2.4L turbocharged engine or i-FORCE MAX 2.4L turbocharged hybrid powertrain",
+        "net_combined_hp": 326,
+        "transmission": "8-speed Automatic Transmission or 6-speed Manual Transmission (i-FORCE); 8-speed Automatic (i-FORCE MAX)",
+        "drivetrain": "4WDemand part-time 4WD with electronically locking rear differential",
+        "drive_modes": [],
+        "mpg_est": { "city": 19, "highway": 24, "combined": 21 },
+        "features": [
+          "i-FORCE 2.4L turbocharged engine; 278 hp @ 6000 rpm; 317 lb.-ft. @ 1700 rpm (8-speed automatic)",
+          "i-FORCE 2.4L turbocharged engine; 270 hp @ 5400 rpm; 310 lb.-ft. @ 1700 rpm (6-speed manual)",
+          "i-FORCE MAX 2.4L turbocharged hybrid powertrain; 326 hp @ 6000 rpm; 465 lb.-ft. @ 1700 rpm (8-speed automatic)",
+          "4WDemand part-time 4WD with electronically locking rear differential",
+          "Bilstein monotube remote reservoir shocks",
+          "Composite front skid plate",
+          "Black overfenders"
+        ]
+      },
+      "exterior_features": [
+        "17-in. machined alloy wheels (i-FORCE)",
+        "18-in. machined alloy wheels (i-FORCE MAX)",
+        "LED fog lights",
+        "LED bed lighting",
+        "Electronically controlled locking rear differential",
+        "Bilstein monotube remote reservoir shocks",
+        "Composite front skid plate",
+        "Black overfenders"
+      ],
+      "interior_features": [
+        "Leather-trimmed manual tilt/telescopic steering wheel",
+        "Smart Key System on driver and front passenger doors",
+        "TRD-branded Push Button Start",
+        "60/40 split, folding rear seat with under-seat storage",
+        "Fabric-trimmed seats",
+        "Automatic climate control with air filtration"
+      ],
+      "audio_multimedia": {
+        "system_name": "8-in. Toyota Audio Multimedia (available 14-in. on Premium Package)",
+        "display": "8-in. audio multimedia touchscreen display (available 14-in.)",
+        "features": [
+          "6-speaker audio with wireless Apple CarPlay and Android Auto compatibility; SiriusXM 3-month trial subscription",
+          "Available 14-in. audio multimedia touchscreen display on TRD Off-Road Premium Package"
+        ]
+      },
+      "connected_services_trials": [
+        "Connected Services availability varies by audio system; trial periods may be included"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Pre-Collision System with Pedestrian Detection (PCS w/PD)",
+        "Proactive Driving Assist (PDA) on AT models",
+        "Lane Departure Alert with Steering Assist (LDA w/SA)",
+        "Automatic High Beams (AHB)",
+        "Road Sign Assist (RSA)",
+        "Full-Speed Range Dynamic Radar Cruise Control (DRCC) on AT models",
+        "Dynamic Radar Cruise Control on MT models"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "TRD Off-Road Upgrade Package",
+          "contents": [
+            "Additional off-road capability and convenience features"
+          ]
+        },
+        {
+          "package_name": "TRD Off-Road Premium Package",
+          "contents": [
+            "Heated front seats",
+            "14-in. audio multimedia touchscreen display",
+            "Stabilizer Disconnect Mechanism (SDM)",
+            "Power tilt/slide moonroof",
+            "Mudguards"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "Limited",
+      "msrp": "$48,500",
+      "mechanical_performance": {
+        "engine": "i-FORCE 2.4L turbocharged engine or i-FORCE MAX 2.4L turbocharged hybrid powertrain",
+        "net_combined_hp": 326,
+        "transmission": "8-speed Automatic Transmission",
+        "drivetrain": "4WDemand part-time 4WD or All-Wheel Drive (AWD)",
+        "drive_modes": [],
+        "mpg_est": { "city": 21, "highway": 26, "combined": 23 },
+        "features": [
+          "i-FORCE 2.4L turbocharged engine; 278 hp @ 6000 rpm; 317 lb.-ft. @ 1700 rpm",
+          "i-FORCE MAX 2.4L turbocharged hybrid powertrain; 326 hp @ 6000 rpm; 465 lb.-ft. @ 1700 rpm",
+          "4WDemand part-time 4WD or All-Wheel Drive (AWD)",
+          "Adaptive Variable Suspension (AVS) standard on i-FORCE MAX; available on i-FORCE",
+          "Power up/down tailgate with knee-lift assist"
+        ]
+      },
+      "exterior_features": [
+        "18-in. chrome-finished alloy wheels",
+        "Power running boards",
+        "Adaptive Variable Suspension (AVS) (standard on i-FORCE MAX; available on i-FORCE)",
+        "Power up/down tailgate with knee-lift assist",
+        "LED fog lights",
+        "Power tilt/slide moonroof",
+        "Chrome-finished exhaust tip"
+      ],
+      "interior_features": [
+        "12.3-in. digital meter with selectable gauge display screens",
+        "Head-Up Display (HUD)",
+        "SofTex-trimmed seats",
+        "Digital display auto-dimming rearview mirror",
+        "Qi-compatible wireless charging and dual USB-C ports with power delivery"
+      ],
+      "audio_multimedia": {
+        "system_name": "14-in. Toyota Audio Multimedia with JBL Premium Audio",
+        "display": "14-in. audio multimedia touchscreen display",
+        "features": [
+          "JBL Premium Audio with ten speakers including JBL FLEX portable Bluetooth speaker, subwoofer and amplifier",
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription",
+          "Integrated Head-Up Display support for audio/navigation info"
+        ]
+      },
+      "connected_services_trials": [
+        "Connected Services availability may include Safety Connect, Service Connect, Remote Connect and Wi-Fi Connect trials depending on market"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Pre-Collision System with Pedestrian Detection (PCS w/PD)",
+        "Proactive Driving Assist (PDA)",
+        "Lane Departure Alert with Steering Assist (LDA w/SA)",
+        "Automatic High Beams (AHB)",
+        "Road Sign Assist (RSA)",
+        "Full-Speed Range Dynamic Radar Cruise Control (DRCC)"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Adaptive Variable Suspension (AVS)",
+          "contents": [
+            "Adaptive Variable Suspension (AVS) standard on i-FORCE MAX; available on i-FORCE"
+          ]
+        },
+        {
+          "package_name": "Mudguards",
+          "contents": [
+            "Front and rear mudguards"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "Trailhunter",
+      "msrp": "$54,500",
+      "mechanical_performance": {
+        "engine": "i-FORCE MAX 2.4L turbocharged hybrid powertrain; 323 hp @ 6000 rpm; 465 lb.-ft. @ 1700 rpm",
+        "net_combined_hp": 323,
+        "transmission": "8-speed Automatic Transmission",
+        "drivetrain": "4WDemand part-time 4WD with electronically locking rear differential and Stabilizer Disconnect Mechanism (SDM)",
+        "drive_modes": [],
+        "mpg_est": { "city": 20, "highway": 24, "combined": 22 },
+        "features": [
+          "i-FORCE MAX 2.4L turbocharged hybrid powertrain; 323 hp @ 6000 rpm; 465 lb.-ft. @ 1700 rpm",
+          "4WDemand part-time 4WD with electronically locking rear differential",
+          "Stabilizer Disconnect Mechanism (SDM)",
+          "Low-profile, rear-facing, high-mount air intake",
+          "Old Man Emu 2.5-in. forged monotube shocks",
+          "High-clearance trail exhaust tip",
+          "Steel underbody protection and rock rails"
+        ]
+      },
+      "exterior_features": [
+        "Rigid Industries white-and-yellow-color switching LED fog lights",
+        "Heritage-inspired “TOYOTA” front grille",
+        "Integrated LED light bar",
+        "ARB modular bed utility bar with removable MOLLE panels",
+        "18-in. Trailhunter alloy wheels with 33-in. Goodyear Territory R/T tires",
+        "High-clearance front bumper",
+        "ARB steel rear bumper and red rear recovery hooks",
+        "Steel underbody protection",
+        "Steel rock rails"
+      ],
+      "interior_features": [
+        "Smart Key System with Digital Key capability",
+        "Leather-trimmed manual tilt/telescopic heated steering wheel",
+        "Digital display auto-dimming rearview mirror with compass and HomeLink universal transceiver",
+        "12.3-in. digital meter with selectable gauge display screens",
+        "Prewired DC power auxiliary switches",
+        "Qi-compatible wireless charging and dual USB-C ports with power delivery",
+        "SofTex-trimmed seats",
+        "Heated and ventilated front seats",
+        "Power sliding horizontal rear window with privacy glass",
+        "Dual zone automatic climate control with air filtration",
+        "Head-Up Display (HUD)",
+        "Integrated Trailer Brake Controller (ITBC)",
+        "3D Multi-Terrain Monitor (MTM)"
+      ],
+      "audio_multimedia": {
+        "system_name": "14-in. Toyota Audio Multimedia with JBL Premium Audio",
+        "display": "14-in. audio multimedia touchscreen display",
+        "features": [
+          "JBL Premium Audio with ten speakers including JBL FLEX portable Bluetooth speaker, subwoofer and amplifier",
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Connected Services availability may include Safety Connect, Service Connect, Remote Connect and Wi-Fi Connect trials depending on market"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Pre-Collision System with Pedestrian Detection (PCS w/PD)",
+        "Proactive Driving Assist (PDA)",
+        "Lane Departure Alert with Steering Assist (LDA w/SA)",
+        "Automatic High Beams (AHB)",
+        "Road Sign Assist (RSA)",
+        "Full-Speed Range Dynamic Radar Cruise Control (DRCC)"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Mudguards",
+          "contents": [
+            "Front and rear mudguards"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "TRD Pro",
+      "msrp": "$58,500",
+      "mechanical_performance": {
+        "engine": "i-FORCE MAX 2.4L turbocharged hybrid powertrain; 326 hp @ 6000 rpm; 465 lb.-ft. @ 1700 rpm",
+        "net_combined_hp": 326,
+        "transmission": "8-speed Automatic Transmission",
+        "drivetrain": "4WDemand part-time 4WD with electronically locking rear differential and Stabilizer Disconnect Mechanism (SDM)",
+        "drive_modes": [],
+        "mpg_est": { "city": 19, "highway": 23, "combined": 21 },
+        "features": [
+          "i-FORCE MAX 2.4L turbocharged hybrid powertrain; 326 hp @ 6000 rpm; 465 lb.-ft. @ 1700 rpm",
+          "4WDemand part-time 4WD with electronically locking rear differential",
+          "Stabilizer Disconnect Mechanism (SDM)",
+          "TRD-tuned FOX QS3 Internal Bypass shocks",
+          "TRD performance exhaust with black exhaust tips",
+          "TRD performance cold air intake",
+          "Underbody transfer case and fuel tank protection",
+          "Reinforced rocker protector"
+        ]
+      },
+      "exterior_features": [
+        "Rigid Industries LED fog lights",
+        "Heritage-inspired “TOYOTA” front grille",
+        "Integrated LED light bar",
+        "Power tilt/slide moonroof with sliding sunshade",
+        "18-in. TRD Pro alloy wheels with 33-in. Goodyear Territory R/T tires",
+        "High-clearance front bumper",
+        "ARB steel rear bumper and red rear recovery hooks",
+        "TRD Pro aluminum front skid plate",
+        "Underbody transfer case and fuel tank protection",
+        "Reinforced rocker protector"
+      ],
+      "interior_features": [
+        "TRD Pro leather-trimmed manual tilt/telescopic steering wheel with TRD badge and red center stripe",
+        "Digital display auto-dimming rearview mirror with compass and HomeLink universal transceiver",
+        "12.3-in. digital meter with selectable gauge display screens",
+        "Prewired DC power auxiliary switches",
+        "Qi-compatible wireless charging and dual USB-C ports with power delivery",
+        "TRD Pro SofTex-trimmed IsoDynamic performance front seats",
+        "Heated and ventilated front seats",
+        "Power tilt/slide moonroof with sliding sunshade",
+        "Power sliding horizontal rear window with privacy glass",
+        "Dual zone automatic climate control with air filtration",
+        "Head-Up Display (HUD)",
+        "Integrated Trailer Brake Controller (ITBC)",
+        "3D Multi-Terrain Monitor (MTM)"
+      ],
+      "audio_multimedia": {
+        "system_name": "14-in. Toyota Audio Multimedia with JBL Premium Audio",
+        "display": "14-in. audio multimedia touchscreen display",
+        "features": [
+          "JBL Premium Audio with ten speakers including JBL FLEX portable Bluetooth speaker, subwoofer and amplifier",
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "SiriusXM 3-month trial subscription"
+        ]
+      },
+      "connected_services_trials": [
+        "Connected Services availability may include Safety Connect, Service Connect, Remote Connect and Wi-Fi Connect trials depending on market"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Pre-Collision System with Pedestrian Detection (PCS w/PD)",
+        "Proactive Driving Assist (PDA)",
+        "Lane Departure Alert with Steering Assist (LDA w/SA)",
+        "Automatic High Beams (AHB)",
+        "Road Sign Assist (RSA)",
+        "Full-Speed Range Dynamic Radar Cruise Control (DRCC)"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Mudguards",
+          "contents": [
+            "Front and rear mudguards"
+          ]
+        }
+      ]
+    }
+  ]
+}

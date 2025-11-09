@@ -1,0 +1,155 @@
+{
+    "make": "Toyota",
+    "model": "Crown Signia",
+    "color_options": [
+      "Oxygen White",
+      "Finish Line Red",
+      "Bronze Age",
+      "Storm Cloud",
+      "Black"
+    ],
+    "trims": [
+      {
+        "trim_name": "XLE",
+        "msrp": "$43,590",
+        "mechanical_performance": {
+          "engine": "Hybrid engine: 2.5L 4-Cylinder with 240 net combined hp",
+          "net_combined_hp": 240,
+          "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+          "drivetrain": "All-Wheel Drive (AWD)",
+          "drive_modes": ["Eco", "Normal", "Sport"],
+          "mpg_est": { "city": 39, "highway": 37, "combined": 38 },
+          "features": [
+            "Hybrid engine: 2.5L 4-Cylinder with 240 net combined hp",
+            "Electronically controlled Continuously Variable Transmission (ECVT)",
+            "All-Wheel Drive (AWD)",
+            "Eco, Normal and Sport drive modes",
+            "Approx. 39 city / 37 highway / 38 combined mpg"
+          ]
+        },
+        "exterior_features": [
+          "LED projector low- and high-beam headlights",
+          "LED Daytime Running Lights (DRL) accent lighting",
+          "19-in. multi-spoke machine-finished two-tone alloy wheels",
+          "Height-adjustable hands-free power liftgate with jam protection"
+        ],
+        "interior_features": [
+          "Leather-trimmed seats",
+          "8-way power-adjustable driver’s seat with lumbar support and memory function",
+          "8-way power-adjustable front passenger seat",
+          "Heated and ventilated front seats",
+          "Heated rear outboard seats",
+          "Dual zone automatic climate control system with dust and pollen filter and rear-seat vents",
+          "Heated leather-trimmed tilt/telescopic steering wheel",
+          "60/40 split fold-flat rear seats with extension board",
+          "12.3-in. digital gauge cluster with selectable gauges",
+          "Smart Key System on all doors and liftgate with Push Button Start",
+          "Qi-compatible vertical wireless smartphone charging"
+        ],
+        "audio_multimedia": {
+          "system_name": "12.3-in. Toyota Audio Multimedia",
+          "display": "12.3-in. touchscreen",
+          "features": [
+            "12.3-in. touchscreen display",
+            "Wireless Apple CarPlay compatibility",
+            "Wireless Android Auto compatibility",
+            "SiriusXM 3-month trial subscription",
+            "Six speakers"
+          ]
+        },
+        "connected_services_trials": [
+          "Wi-Fi Connect (4G network dependent)",
+          "Service Connect with up to 10-year trial (4G network dependent)",
+          "Remote Connect with 1-year trial (4G network dependent)",
+          "Safety Connect with up to 10-year trial (4G network dependent)",
+          "Drive Connect with 1-year trial (4G network dependent)"
+        ],
+        "safety_convenience_features": [
+          "Toyota Safety Sense 3.0 (TSS 3.0)",
+          "Star Safety System",
+          "Eight airbags",
+          "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+          "Safe Exit Alert (SEA)"
+        ],
+        "options_and_packages": []
+      },
+      {
+        "trim_name": "Limited",
+        "msrp": "$48,990",
+        "mechanical_performance": {
+          "engine": "Hybrid engine: 2.5L 4-Cylinder with 240 net combined hp",
+          "net_combined_hp": 240,
+          "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+          "drivetrain": "All-Wheel Drive (AWD)",
+          "drive_modes": ["Eco", "Normal", "Sport"],
+          "mpg_est": { "city": 39, "highway": 37, "combined": 38 },
+          "features": [
+            "Hybrid engine: 2.5L 4-Cylinder with 240 net combined hp",
+            "Electronically controlled Continuously Variable Transmission (ECVT)",
+            "All-Wheel Drive (AWD)",
+            "Eco, Normal and Sport drive modes",
+            "Approx. 39 city / 37 highway / 38 combined mpg"
+          ]
+        },
+        "exterior_features": [
+          "LED projector low- and high-beam headlights",
+          "LED Daytime Running Lights (DRL) accent lighting",
+          "Rain-sensing variable intermittent windshield wipers",
+          "21-in. 7-twin-spoke dark gray metallic alloy wheels",
+          "Panoramic fixed-glass roof with power sunshade"
+        ],
+        "interior_features": [
+          "Leather-trimmed seats",
+          "8-way power-adjustable driver’s seat with lumbar support and memory function",
+          "8-way power-adjustable front passenger seat",
+          "Heated and ventilated front seats",
+          "Heated rear outboard seats",
+          "Dual zone automatic climate control system with dust and pollen filter and rear-seat vents",
+          "Heated leather-trimmed tilt/telescopic steering wheel",
+          "60/40 split fold-flat rear seats with extension board",
+          "12.3-in. digital gauge cluster with selectable gauges",
+          "Smart Key System on all doors and liftgate with Push Button Start",
+          "Digital rearview mirror with HomeLink universal transceiver",
+          "Digital Key capability (Remote Connect trial or subscription required)"
+        ],
+        "audio_multimedia": {
+          "system_name": "12.3-in. Toyota Audio Multimedia with JBL Premium Audio",
+          "display": "12.3-in. touchscreen",
+          "features": [
+            "12.3-in. touchscreen display",
+            "Wireless Apple CarPlay compatibility",
+            "Wireless Android Auto compatibility",
+            "SiriusXM 3-month trial subscription",
+            "11-speaker JBL Premium Audio system including subwoofer and amplifier"
+          ]
+        },
+        "connected_services_trials": [
+          "Wi-Fi Connect (4G network dependent)",
+          "Service Connect with up to 10-year trial (4G network dependent)",
+          "Remote Connect with 1-year trial (4G network dependent)",
+          "Safety Connect with up to 10-year trial (4G network dependent)",
+          "Drive Connect with 1-year trial (4G network dependent)"
+        ],
+        "safety_convenience_features": [
+          "Toyota Safety Sense 3.0 (TSS 3.0)",
+          "Star Safety System",
+          "Eight airbags",
+          "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+          "Safe Exit Alert (SEA)"
+        ],
+        "options_and_packages": [
+          {
+            "package_name": "Advanced Tech Package",
+            "contents": [
+              "Panoramic View Monitor (PVM) with 360-degree Overhead View in low-speed drive and reverse, and Curb View",
+              "Lane Change Assist (LCA)",
+              "Traffic Jam Assist (TJA) (requires Drive Connect subscription)",
+              "Front Cross-Traffic Alert (FCTA)",
+              "Outside mirrors with puddle lights and reverse tilt-down feature",
+              "Front and Rear Parking Assist with Automatic Braking (PA w/AB)"
+            ]
+          }
+        ]
+      }
+    ]
+  }  

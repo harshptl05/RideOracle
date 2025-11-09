@@ -1,0 +1,76 @@
+{
+  "make": "Toyota",
+  "model": "Mirai",
+  "color_options": [
+    "Ice Cap",
+    "Wind Chill Pearl",
+    "Midnight Black Metallic",
+    "Magnetic Gray Metallic",
+    "Supersonic Red",
+    "Blueprint",
+    "Oxygen White",
+    "Black Oxygen"
+  ],
+  "trims": [
+    {
+      "trim_name": "XLE",
+      "msrp": "$51,795",
+      "mechanical_performance": {
+        "engine": "Hydrogen Fuel-Cell Electric Powertrain",
+        "net_combined_hp": 182,
+        "transmission": "Single-speed automatic",
+        "drivetrain": "Rear-Wheel Drive (RWD)",
+        "drive_modes": ["Normal", "Eco", "Sport"],
+        "mpg_est": { "city": 76, "highway": 71, "combined": 74 },
+        "features": [
+          "Hydrogen fuel-cell system driving an electric motor",
+          "Approx. 182 hp from electric motor",
+          "Rear-Wheel Drive layout",
+          "Zero tailpipe emissions",
+          "EPA-estimated range around 402 miles on a full hydrogen tank"
+        ]
+      },
+      "exterior_features": [
+        "LED headlights and taillights",
+        "Aerodynamic sedan profile with premium exterior accents",
+        "Alloy wheels",
+        "Color-keyed power outside mirrors with turn-signal indicators"
+      ],
+      "interior_features": [
+        "Seating for five passengers",
+        "Premium cloth or SofTex-trimmed seats (depending on equipment)",
+        "Power-adjustable front seats",
+        "Dual-zone automatic climate control",
+        "12.3-in. central display and digital driver display"
+      ],
+      "audio_multimedia": {
+        "system_name": "Toyota Audio Multimedia",
+        "display": "12.3-in. touchscreen",
+        "features": [
+          "Wireless Apple CarPlay compatibility",
+          "Wireless Android Auto compatibility",
+          "Available JBL Premium Audio system",
+          "Bluetooth connectivity and USB-C ports"
+        ]
+      },
+      "connected_services_trials": [
+        "Safety Connect with up to 10-year trial",
+        "Service Connect with up to 10-year trial",
+        "Wi-Fi Connect trial",
+        "Remote Connect capable (subscription required, where equipped)"
+      ],
+      "safety_convenience_features": [
+        "Toyota Safety Sense 3.0 (TSS 3.0)",
+        "Pre-Collision System with Pedestrian Detection",
+        "Full-Speed Range Dynamic Radar Cruise Control",
+        "Lane Departure Alert with Steering Assist",
+        "Lane Tracing Assist",
+        "Road Sign Assist",
+        "Automatic High Beams",
+        "Blind Spot Monitor with Rear Cross-Traffic Alert",
+        "Star Safety System and multiple airbags"
+      ],
+      "options_and_packages": []
+    }
+  ]
+}
