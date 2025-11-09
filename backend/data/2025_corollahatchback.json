@@ -1,0 +1,245 @@
+{
+    "make": "Toyota",
+    "model": "Corolla Hatchback",
+    "color_options": [
+      "Midnight Black Metallic",
+      "Blue Crush Metallic",
+      "Inferno",
+      "Magnetic Gray Metallic",
+      "Finish Line Red",
+      "Classic Silver Metallic",
+      "Wind Chill Pearl",
+      "Ice Cap"
+    ],
+    "trims": [
+      {
+        "trim_name": "SE",
+        "msrp": "$24,600",
+        "mechanical_performance": {
+          "engine": "2.0L 4-cylinder Dynamic Force Engine with 169 hp",
+          "net_combined_hp": 169,
+          "transmission": "Dynamic-Shift Continuously Variable Transmission (CVT)",
+          "drivetrain": "Front-Wheel Drive (FWD)",
+          "drive_modes": ["Normal", "Eco", "Sport"],
+          "mpg_est": { "city": 32, "highway": 41, "combined": 35 },
+          "features": [
+            "2.0L 4-cylinder Dynamic Force Engine with 169 hp",
+            "Dynamic-Shift Continuously Variable Transmission (CVT)",
+            "Normal, Eco and Sport driving modes",
+            "Front-Wheel Drive (FWD)",
+            "32 city / 41 highway / 35 combined estimated mpg"
+          ]
+        },
+        "exterior_features": [
+          "LED headlights and LED Daytime Running Lights (DRL) with auto on/off feature",
+          "16-in. alloy wheels",
+          "Gloss-black front upper grille surround",
+          "Color-keyed front lower grille surround",
+          "Color-keyed rear spoiler",
+          "Color-keyed heated power outside mirrors with turn signal indicators",
+          "Single exhaust",
+          "Color-keyed rear diffuser surround"
+        ],
+        "interior_features": [
+          "Automatic climate control",
+          "Smart Key System with Push Button Start",
+          "4.2-in. Multi-Information Display (MID)",
+          "Premium leather-trimmed steering wheel",
+          "Paddle shifters",
+          "Fabric sport seats with 60/40 split fold-down rear seats",
+          "Four USB-C charging ports",
+          "Electric Parking Brake (EPB) with Brake Hold function"
+        ],
+        "audio_multimedia": {
+          "system_name": "Toyota Audio Multimedia",
+          "display": "8-in. touchscreen",
+          "features": [
+            "8-in. touchscreen with six speakers",
+            "Wireless Apple CarPlay compatibility",
+            "Wireless Android Auto compatibility",
+            "SiriusXM 3-month trial subscription"
+          ]
+        },
+        "connected_services_trials": [
+          "Remote Connect with 1-year trial (4G network dependent)",
+          "Drive Connect capable; subscription required (4G network dependent)",
+          "Service Connect with up to 10-year trial (4G network dependent)",
+          "Wi-Fi Connect with up to 3 GB within 30-day trial (4G network dependent)",
+          "Safety Connect with up to 10-year trial (4G network dependent)"
+        ],
+        "safety_convenience_features": [
+          "Toyota Safety Sense 3.0 (TSS 3.0)",
+          "Star Safety System",
+          "Ten airbags",
+          "Pre-Collision System with Pedestrian Detection",
+          "Full-Speed Range Dynamic Radar Cruise Control",
+          "Lane Departure Alert with Steering Assist",
+          "Lane Tracing Assist",
+          "Road Sign Assist",
+          "Automatic High Beams"
+        ],
+        "options_and_packages": [
+          {
+            "package_name": "SE Premium Package",
+            "contents": [
+              "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+              "Enhanced cargo space"
+            ]
+          }
+        ]
+      },
+      {
+        "trim_name": "Nightshade",
+        "msrp": "$25,600",
+        "mechanical_performance": {
+          "engine": "2.0L 4-cylinder Dynamic Force Engine with 169 hp",
+          "net_combined_hp": 169,
+          "transmission": "Dynamic-Shift Continuously Variable Transmission (CVT)",
+          "drivetrain": "Front-Wheel Drive (FWD)",
+          "drive_modes": ["Normal", "Eco", "Sport"],
+          "mpg_est": { "city": 32, "highway": 41, "combined": 35 },
+          "features": [
+            "2.0L 4-cylinder Dynamic Force Engine with 169 hp",
+            "Dynamic-Shift Continuously Variable Transmission (CVT)",
+            "Normal, Eco and Sport driving modes",
+            "Front-Wheel Drive (FWD)",
+            "32 city / 41 highway / 35 combined estimated mpg"
+          ]
+        },
+        "exterior_features": [
+          "LED headlights and LED Daytime Running Lights (DRL) with auto on/off feature",
+          "18-in. bronze-finished alloy wheels",
+          "Gloss-black front upper grille surround",
+          "Black front lower grille surround",
+          "Black heated power outside mirrors with turn signal indicators",
+          "Blackout badging"
+        ],
+        "interior_features": [
+          "Automatic climate control",
+          "Smart Key System with Push Button Start",
+          "4.2-in. Multi-Information Display (MID)",
+          "Premium leather-trimmed steering wheel",
+          "Paddle shifters",
+          "Fabric sport seats with 60/40 split fold-down rear seats",
+          "Four USB-C charging ports",
+          "Electric Parking Brake (EPB) with Brake Hold function"
+        ],
+        "audio_multimedia": {
+          "system_name": "Toyota Audio Multimedia",
+          "display": "8-in. touchscreen",
+          "features": [
+            "8-in. touchscreen",
+            "Wireless Apple CarPlay compatibility",
+            "Wireless Android Auto compatibility",
+            "SiriusXM 3-month trial subscription"
+          ]
+        },
+        "connected_services_trials": [
+          "Remote Connect with 1-year trial (4G network dependent)",
+          "Drive Connect capable; subscription required (4G network dependent)",
+          "Service Connect with up to 10-year trial (4G network dependent)",
+          "Wi-Fi Connect with up to 3 GB within 30-day trial (4G network dependent)",
+          "Safety Connect with up to 10-year trial (4G network dependent)"
+        ],
+        "safety_convenience_features": [
+          "Toyota Safety Sense 3.0 (TSS 3.0)",
+          "Star Safety System",
+          "Ten airbags",
+          "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+          "Pre-Collision System with Pedestrian Detection",
+          "Full-Speed Range Dynamic Radar Cruise Control",
+          "Lane Departure Alert with Steering Assist",
+          "Lane Tracing Assist",
+          "Road Sign Assist",
+          "Automatic High Beams"
+        ],
+        "options_and_packages": [
+          {
+            "package_name": "SE Premium Package",
+            "contents": [
+              "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+              "Enhanced cargo space"
+            ]
+          }
+        ]
+      },
+      {
+        "trim_name": "XSE",
+        "msrp": "$27,750",
+        "mechanical_performance": {
+          "engine": "2.0L 4-cylinder Dynamic Force Engine with 169 hp",
+          "net_combined_hp": 169,
+          "transmission": "Dynamic-Shift Continuously Variable Transmission (CVT)",
+          "drivetrain": "Front-Wheel Drive (FWD)",
+          "drive_modes": ["Normal", "Eco", "Sport"],
+          "mpg_est": { "city": 30, "highway": 38, "combined": 33 },
+          "features": [
+            "2.0L 4-cylinder Dynamic Force Engine with 169 hp",
+            "Dynamic-Shift Continuously Variable Transmission (CVT)",
+            "Normal, Eco and Sport driving modes",
+            "Front-Wheel Drive (FWD)",
+            "30 city / 38 highway / 33 combined estimated mpg"
+          ]
+        },
+        "exterior_features": [
+          "LED headlights and LED Daytime Running Lights (DRL) with auto on/off feature",
+          "Integrated LED fog lights",
+          "18-in. alloy wheels with graphite-colored finish",
+          "Gloss-black front upper grille surround",
+          "Color-keyed front lower grille surround",
+          "Color-keyed rear spoiler",
+          "Color-keyed heated power outside mirrors with turn signal indicators",
+          "Single exhaust with dual chrome-colored rear diffuser accents"
+        ],
+        "interior_features": [
+          "Dual zone automatic climate control",
+          "Smart Key System with Push Button Start",
+          "7-in. fully digital gauge cluster",
+          "Premium leather-trimmed steering wheel",
+          "Paddle shifters",
+          "SofTex with sport fabric insert trim, including heated front seats with sport bolsters",
+          "Four USB-C charging ports",
+          "Electric Parking Brake (EPB) with Brake Hold function",
+          "Qi-compatible wireless smartphone charging"
+        ],
+        "audio_multimedia": {
+          "system_name": "Toyota Audio Multimedia with JBL Premium Audio",
+          "display": "8-in. touchscreen",
+          "features": [
+            "8-in. touchscreen",
+            "Wireless Apple CarPlay compatibility",
+            "Wireless Android Auto compatibility",
+            "SiriusXM 3-month trial subscription",
+            "JBL Premium Audio including eight speakers and amplifier"
+          ]
+        },
+        "connected_services_trials": [
+          "Remote Connect with 1-year trial (4G network dependent)",
+          "Drive Connect with 1-year trial (4G network dependent)",
+          "Service Connect with up to 10-year trial (4G network dependent)",
+          "Wi-Fi Connect with up to 3 GB within 30-day trial (4G network dependent)",
+          "Safety Connect with up to 10-year trial (4G network dependent)"
+        ],
+        "safety_convenience_features": [
+          "Toyota Safety Sense 3.0 (TSS 3.0)",
+          "Star Safety System",
+          "Ten airbags",
+          "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+          "Pre-Collision System with Pedestrian Detection",
+          "Full-Speed Range Dynamic Radar Cruise Control",
+          "Lane Departure Alert with Steering Assist",
+          "Lane Tracing Assist",
+          "Road Sign Assist",
+          "Automatic High Beams"
+        ],
+        "options_and_packages": [
+          {
+            "package_name": "Enhanced Cargo Package",
+            "contents": [
+              "Enhanced cargo space configuration"
+            ]
+          }
+        ]
+      }
+    ]
+  }  

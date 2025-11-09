@@ -1,0 +1,169 @@
+{
+  "make": "Toyota",
+  "model": "GR Supra",
+  "color_options": [
+    "Nocturnal",
+    "Stratosphere",
+    "Renaissance Red 2.0",
+    "Absolute Zero"
+  ],
+  "trims": [
+    {
+      "trim_name": "3.0",
+      "msrp": "$56,000",
+      "mechanical_performance": {
+        "engine": "3.0L twin-scroll single-turbo DOHC 24-valve inline 6-cylinder engine",
+        "net_combined_hp": 382,
+        "transmission": "8-speed automatic transmission with paddle shifters; available 6-speed intelligent Manual Transmission (iMT)",
+        "drivetrain": "Rear-Wheel Drive (RWD)",
+        "drive_modes": ["Normal", "Sport"],
+        "mpg_est": { "city": 23, "highway": 31, "combined": 26 },
+        "features": [
+          "3.0L twin-scroll single-turbo DOHC 24-valve inline 6-cylinder engine",
+          "382 hp and 368 lb.-ft. of torque",
+          "Top racetrack speed: 155 mph (electronically controlled)",
+          "Active exhaust system",
+          "Active rear sport differential",
+          "Launch Control",
+          "8-speed automatic transmission with paddle shifters",
+          "Available 6-speed intelligent Manual Transmission (iMT)",
+          "High-performance Michelin Pilot Super Sport summer tires (F: 255/35 ZR19; R: 275/35 ZR19)"
+        ]
+      },
+      "exterior_features": [
+        "6-lens auto-leveling LED headlights (three low-beam; three high-beam)",
+        "Built-in rear spoiler",
+        "Matte-black auto-folding, heated outside mirrors with memory function",
+        "19-in. frozen gunmetal gray forged-aluminum wheels"
+      ],
+      "interior_features": [
+        "Smart Key System with Smart Entry and Start",
+        "Alcantara-trimmed/leather-trimmed sport seats",
+        "14-way power-adjustable sport seats with driver’s-seat memory",
+        "4-way lumbar and 2-way bolster adjustment",
+        "Carbon-fiber interior trim",
+        "Leather-wrapped 3-spoke steering wheel"
+      ],
+      "audio_multimedia": {
+        "system_name": "HiFi Audio System",
+        "display": "8.8-in. display screen with Supra Command",
+        "features": [
+          "10-speaker HiFi sound system (205W)",
+          "8.8-in. display with Supra Command controller",
+          "AM/FM and Digital Audio playback",
+          "SiriusXM 3-month trial subscription",
+          "USB and Bluetooth wireless connectivity"
+        ]
+      },
+      "connected_services_trials": [
+        "Supra Connect capable (availability and features vary by package; 4G network dependent)"
+      ],
+      "safety_convenience_features": [
+        "Electric Parking Brake (EPB)",
+        "Pre-Collision System with Pedestrian Detection",
+        "Lane Departure Warning with Steering Assist (LDW w/SA)",
+        "Automatic High Beams (AHB)",
+        "Rearview camera with parking aid lines"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Safety & Technology Package Plus JBL",
+          "contents": [
+            "Full-Speed Dynamic Radar Cruise Control (DRCC) for automatic transmission models",
+            "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+            "Parking sensors with emergency braking function",
+            "8.8-in. touchscreen with navigation",
+            "12-speaker 500W JBL Audio system with amplifier",
+            "Touchpad rotary control",
+            "Wireless Apple CarPlay compatibility (iOS only)",
+            "Speed Limit Information"
+          ]
+        }
+      ]
+    },
+    {
+      "trim_name": "3.0 Premium",
+      "msrp": "$59,000",
+      "mechanical_performance": {
+        "engine": "3.0L twin-scroll single-turbo DOHC 24-valve inline 6-cylinder engine",
+        "net_combined_hp": 382,
+        "transmission": "8-speed automatic transmission with paddle shifters; available 6-speed intelligent Manual Transmission (iMT)",
+        "drivetrain": "Rear-Wheel Drive (RWD)",
+        "drive_modes": ["Normal", "Sport"],
+        "mpg_est": { "city": 23, "highway": 31, "combined": 26 },
+        "features": [
+          "3.0L twin-scroll single-turbo DOHC 24-valve inline 6-cylinder engine",
+          "382 hp and 368 lb.-ft. of torque",
+          "Top racetrack speed: 155 mph (electronically controlled)",
+          "Active exhaust system",
+          "Active rear sport differential",
+          "Launch Control",
+          "8-speed automatic transmission with paddle shifters",
+          "Available 6-speed intelligent Manual Transmission (iMT)",
+          "High-performance Michelin Pilot Super Sport summer tires (F: 255/35 ZR19; R: 275/35 ZR19)"
+        ]
+      },
+      "exterior_features": [
+        "6-lens auto-leveling LED headlights (three low-beam; three high-beam)",
+        "Built-in rear spoiler",
+        "Matte-black auto-folding, heated outside mirrors with memory function",
+        "19-in. frozen gunmetal gray forged-aluminum wheels"
+      ],
+      "interior_features": [
+        "Smart Key System with Smart Entry and Start",
+        "14-way heated power-adjustable sport seats with driver’s-seat memory",
+        "4-way lumbar and 2-way bolster adjustment",
+        "Sport pedals",
+        "Full-color Head-Up Display (HUD)",
+        "Carbon-fiber interior trim",
+        "Leather-wrapped 3-spoke steering wheel"
+      ],
+      "audio_multimedia": {
+        "system_name": "JBL HiFi Surround Sound System",
+        "display": "8.8-in. touchscreen with Supra Command and touchpad control",
+        "features": [
+          "12-speaker JBL HiFi Surround Sound system (500W)",
+          "8.8-in. touchscreen with navigation",
+          "AM/FM and Digital Audio playback",
+          "SiriusXM 3-month trial subscription",
+          "Wireless Apple CarPlay compatibility",
+          "Voice recognition",
+          "USB and Bluetooth wireless connectivity",
+          "Qi-compatible wireless smartphone charging tray with light indicator"
+        ]
+      },
+      "connected_services_trials": [
+        "Supra Connect 4-year trial featuring Automatic Emergency Calling",
+        "Roadside Assistance through Supra Connect",
+        "Remote-Control Lock/Ventilation",
+        "Real-Time Traffic Information and Map Updates",
+        "Toyota Supra Online services (app available on iOS and Android)",
+        "4G network dependent"
+      ],
+      "safety_convenience_features": [
+        "Electric Parking Brake (EPB)",
+        "Pre-Collision System with Pedestrian Detection",
+        "Lane Departure Warning with Steering Assist (LDW w/SA)",
+        "Automatic High Beams (AHB)",
+        "Rearview camera with parking aid lines"
+      ],
+      "options_and_packages": [
+        {
+          "package_name": "Driver Assist Package",
+          "contents": [
+            "Full-Speed Dynamic Radar Cruise Control (DRCC) for automatic transmission models",
+            "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+            "Parking sensors with emergency braking function",
+            "Supra Connect 4-year trial including Remote Services",
+            "Remote Maintenance alerts",
+            "Automatic Emergency Calling",
+            "Real-Time Traffic Information and Concierge services",
+            "Stolen Vehicle Recovery assistance",
+            "Over-the-air Map Updates",
+            "4G network dependent"
+          ]
+        }
+      ]
+    }
+  ]
+}
